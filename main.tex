@@ -1,0 +1,165 @@
+\documentclass[twoside,12pt]{report}
+% ============================================================ EX-TEST
+\usepackage[utf8]{vietnam}
+\usepackage{ex_test}
+%\usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
+\renewtheorem{ex}{\color{blue!90!black} Câu}
+\usepackage{amsmath,amssymb,tikz,mathrsfs,tkz-tab}
+\usepackage{fontawesome}
+\usepackage[many]{tcolorbox}
+\usetikzlibrary{calc}
+\usepackage{geometry}
+\renewcommand{\baselinestretch}{1.5}
+\usepackage[locale=DE]{siunitx} % cách viết số đo có đơn vị theo chuẩn DE (gần giống VN) 
+\usepackage{setspace} % hỗ trợ định dạng khoảng cách văn bản.
+\usepackage[newparttoc]{titlesec}	% định dạng tiêu đề cho các section
+\usepackage{currfile}
+\usepackage[version=3]{mhchem} % công thức và phương trình hóa học 
+\usepackage{tikz} % gói TikZ vẽ hình 
+	\usetikzlibrary{decorations.shapes,shapes.geometric,calc,positioning}
+\usepackage{pgf} % hỗ trợ phép tính toán học và vẽ hình	
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage{pgfplots}
+\renewcommand{\baselinestretch}{1.2}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{titlesec}
+% lệnh siunit 
+\newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
+\newcommand{\outfooter}{
+\color{purple}\bfseries	GV: Lương Hoàng Sang
+}
+\newcommand{\outheader}{
+	\color{purple}\bfseries	Trường THCS - THPT Nguyễn Khuyến
+}
+\newcommand{\namhoc}{
+	\color{purple}\bfseries	Năm học: 2024 - 2025
+}
+\def\monhoc{\bfseries Kế hoạch bài dạy vật lí 10}
+\graphicspath{{figs/}{extra/}} % các thư mục chứa hình ảnh 
+
+% ========== PAPER FORMAT ====================
+% --- paper size 
+\geometry{
+	a4paper	% khổ giấy A4
+	,total={180mm,260mm} % kích thước văn bản A4 170mmx247mm
+	,left=15mm % canh lề trái
+	,top=20mm % canh lề trên
+	,footskip=1.0cm % khoảng cách từ văn bản đến footer
+}
+% --- line spacing -- choose 1 in 2 choices 
+\onehalfspacing			% cách dòng đơn
+%\doublespacing			% cách dòng đôi  
+	% ----- định dạng Header và footer
+		% --- 
+	\newlength\sectitleindent
+	\setlength\sectitleindent{0.5cm}
+	\newlength\subsectitleindent
+	\setlength\subsectitleindent{1cm}
+% --- trang văn bản thông thường  
+\pagestyle{fancy} 
+\fancyhf{}
+\renewcommand{\headrulewidth}
+{1pt} % độ dày đường kẻ ở header 
+\newcommand*\cirpage[1] % tạo hình tròn quanh số trang 
+{\tikz[baseline=(char.base)]
+	{
+		\node[
+		shape=circle
+		,draw=black
+		,fill=gray!0
+		,inner sep=2pt
+		]
+		(char)
+		{#1};
+	}
+}
+\fancyhead[LO,RE] % footer - lề trong 
+{	
+\small \outheader \hfill \namhoc% tên tài liệu lấy từ phần khai báo đầu file 
+}  
+\fancyfoot[LO,RE] % footer - lề trong 
+{	
+	\small \outfooter % tên tài liệu lấy từ phần khai báo đầu file 
+}  
+\fancyfoot[CO,CE] % footer - giữa trang 
+{
+	\small \cirpage{\thepage}
+} 
+\fancyfoot[LE] % footer - lề ngoài 
+{
+	\hspace{-\sectitleindent}
+	\vspace*{-11pt}
+	{\color{purple} \monhoc}
+}
+\fancyfoot[RO] % footer - lề ngoài 
+{
+	\hspace{-\sectitleindent}
+	\vspace*{-11pt}
+	{\color{purple} \monhoc}\hspace*{-5pt}
+}
+% --- trang Part và Chapter title 
+\fancypagestyle{plain} % mặc định của trang Part và Chapter title 
+{
+	\fancyfoot[LO,RE]
+	{
+		\hspace{-\sectitleindent}\small \outfooter
+	}
+	\fancyfoot[CO,CE]
+	{
+		\small \cirpage{\thepage}
+	} % footer - giữa trang chẵn và lẻ 
+	\fancyfoot[LE]
+	{
+		\hspace{-\sectitleindent}
+		\vspace*{-11pt}
+		\hspace*{-1.1pt}{\color{purple}\monhoc}
+	}
+	\fancyfoot[RO]
+	{
+		\hspace{-\sectitleindent}
+		\vspace*{-11pt}
+		{\color{purple}\monhoc}\hspace*{-5pt}
+	}
+} % giống với trang thường 
+% ký hiệu từ font Boondox 
+\DeclareFontFamily{U}{BOONDOX-cal}{\skewchar\font=45 }
+\DeclareFontShape{U}{BOONDOX-cal}{m}{n}{
+	<-> s*[1.05] BOONDOX-r-cal}{}
+\DeclareFontShape{U}{BOONDOX-cal}{b}{n}{
+	<-> s*[1.05] BOONDOX-b-cal}{}
+\DeclareMathAlphabet{\bdx}{U}{BOONDOX-cal}{m}{n}
+\SetMathAlphabet{\bdx}{bold}{U}{BOONDOX-cal}{b}{n}
+\DeclareMathAlphabet{\bbdx}{U}{BOONDOX-cal}{b}{n}
+\newcommand{\calE}{\bdx{E}}
+\newcommand{\calP}{\bdx{P}}
+
+\begin{document}
+	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+	\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+	\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcommand{\hoac}[1]{ %hệ hoặc
+	\left[\begin{aligned}#1\end{aligned}\right.}
+\newcommand{\heva}[1]{ %hệ và
+	\left\{\begin{aligned}#1\end{aligned}\right.}
+% Định nghĩa lại \chapter
+\titleformat{\chapter}{\centering\LARGE\bfseries}{}{0pt}{}
+\titlespacing{\chapter}{0pt}{-25pt}{6pt}
+% section đánh số La Mã
+\renewcommand{\thesection}{\Roman{section}}
+\titleformat{\section}
+{\normalfont\bfseries}{\thesection.}{0.4em}{}
+% Định nghĩa subsection theo A, B, ...
+\renewcommand{\thesubsection}{\Alph{subsection}}
+ \titleformat{\subsection}[block]
+ {\normalfont\bfseries\hspace{1.5em}}{\thesubsection.}{0.4em}{}
+% Định dạng lại kiểu đánh số equation
+\renewcommand{\theequation}{\arabic{equation}}   
+% Định dạng lại bảng
+\renewcommand{\theadfont}
+{
+	\normalfont\bfseries
+} % làm ô trong bảng canh giữa + in đậm 
+% ====================================================== input data Bài 1
+\input{data/G10-BAI1}
+\end{document}
