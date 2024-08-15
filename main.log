@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  14 AUG 2024 16:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  15 AUG 2024 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1532,7 +1532,7 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 137.
 
-(./data/G10-BAI1.tex
+(./data/G10-BAI7.tex
 Ch\uhorn \ohorn ng 1.
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
 
@@ -1565,10 +1565,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1596,17 +1592,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Overfull \hbox (43.84322pt too wide) in paragraph at lines 195--226
+Overfull \hbox (43.84322pt too wide) in paragraph at lines 205--236
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
@@ -1619,12 +1615,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
 [5]
-Overfull \hbox (15.39046pt too wide) in paragraph at lines 229--289
+Overfull \hbox (15.39046pt too wide) in paragraph at lines 239--299
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
 
  []
 
@@ -1649,7 +1645,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <figs//../figs/BAI7-1.png, id=40, 465.53925pt x 258.9675pt>
 File: figs//../figs/BAI7-1.png Graphic file (type png)
 <use figs//../figs/BAI7-1.png>
-Package pdftex.def Info: figs//../figs/BAI7-1.png  used on input line 387.
+Package pdftex.def Info: figs//../figs/BAI7-1.png  used on input line 397.
 (pdftex.def)             Requested size: 193.47577pt x 107.6236pt.
 
 
@@ -1675,10 +1671,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 41887 strings out of 476064
- 1034322 string characters out of 5794900
+ 41890 strings out of 476064
+ 1034380 string characters out of 5794900
  1877340 words of memory out of 5000000
- 61622 multiletter control sequences out of 15000+600000
+ 61625 multiletter control sequences out of 15000+600000
  525278 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,17n,118p,736b,1424s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1694,7 +1690,7 @@ live/2022/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2022/texmf-
 dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vn
 tex/vnr/vnr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
 
-Output written on main.pdf (9 pages, 204229 bytes).
+Output written on main.pdf (9 pages, 204219 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream

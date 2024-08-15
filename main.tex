@@ -160,6 +160,25 @@
 {
 	\normalfont\bfseries
 } % làm ô trong bảng canh giữa + in đậm 
+\setcounter{secnumdepth}{4} % đánh số đến cấp thứ 4 của chỉ mục (subsubsection sẽ được đánh số)
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
+\titleformat{\subsubsection}
+{\normalfont\bfseries}{Hoạt động~\thesubsubsection:}{0.4em}{}
+%%%%%%%%%%%%%%%% Định nghĩa môi trường Hoạt động
+\newcommand{\hoatdong}[4]
+{
+\subsubsection{#1}
+\begin{enumerate}[label=\bfseries\itshape \arabic*., topsep=0pt, itemsep=0ex]
+	\item \textbf{\textit{Mục tiêu}}\\
+	#2
+	\item \textbf{\textit{Sản phẩm học tập}}\\
+	#3
+	\item \textbf{\textit{Tổ chức hoạt động}}\\
+	#4
+\end{enumerate}
+
+}
 % ====================================================== input data Bài 1
-\input{data/G10-BAI1}
+%\input{data/G10-BAI1}
+\input{data/G10-BAI7}
 \end{document}
