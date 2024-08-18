@@ -1,0 +1,27 @@
+\contentsline {part}{\numberline {1}CHƯƠNG 1}{2}{}%
+\contentsline {chapter}{\numberline {1}Bài 1. Khái quát về môn vật lí}{3}{}%
+\contentsline {section}{\numberline {I}MỤC TIÊU DẠY HỌC}{3}{}%
+\contentsline {section}{\numberline {II}THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU}{3}{}%
+\contentsline {section}{\numberline {III}TIẾN TRÌNH DẠY HỌC}{3}{}%
+\contentsline {subsection}{\numberline {A}TIẾN TRÌNH}{3}{}%
+\contentsline {subsection}{\numberline {B}CÁC HOẠT ĐỘNG HỌC}{4}{}%
+\contentsline {subsubsection}{\numberline {1}Tìm hiểu đối tượng nghiên cứu và mục tiêu của vật lí}{4}{}%
+\contentsline {subsubsection}{\numberline {2}Tìm hiểu phương pháp nghiên cứu vật lí}{5}{}%
+\contentsline {subsubsection}{\numberline {3} Tìm hiểu ảnh hưởng của vật lí trong một số lĩnh vực. }{6}{}%
+\contentsline {subsubsection}{\numberline {4} Luyện tập. }{6}{}%
+\contentsline {section}{\numberline {IV}HỒ SƠ DẠY HỌC}{7}{}%
+\contentsline {subsection}{\numberline {A}NỘI DUNG DẠY HỌC}{7}{}%
+\contentsline {chapter}{\numberline {2}Bài 7. Gia tốc - Chuyển động thẳng biến đổi đều }{10}{}%
+\contentsline {section}{\numberline {I}MỤC TIÊU DẠY HỌC}{10}{}%
+\contentsline {section}{\numberline {II}THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU}{10}{}%
+\contentsline {section}{\numberline {III}TIẾN TRÌNH DẠY HỌC}{10}{}%
+\contentsline {subsection}{\numberline {A}TIẾN TRÌNH}{10}{}%
+\contentsline {subsection}{\numberline {B}CÁC HOẠT ĐỘNG HỌC}{11}{}%
+\contentsline {subsubsection}{\numberline {1} Tìm hiểu khái niệm và ý nghĩa của gia tốc }{11}{}%
+\contentsline {subsubsection}{\numberline {2} Vận dụng đồ thị vận tốc – thời gian để tính độ dịch chuyển và gia tốc }{12}{}%
+\contentsline {subsubsection}{\numberline {3} Rút ra các công thức của chuyển động thẳng biến đổi đều. }{13}{}%
+\contentsline {subsubsection}{\numberline {4} Luyện tập. }{13}{}%
+\contentsline {section}{\numberline {IV}HỒ SƠ DẠY HỌC}{14}{}%
+\contentsline {subsection}{\numberline {A}NỘI DUNG DẠY HỌC}{14}{}%
+\contentsline {subsection}{\numberline {B}CÁC HỒ SƠ KHÁC}{15}{}%
+\contentsfinish 

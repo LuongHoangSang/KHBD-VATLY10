@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  15 AUG 2024 21:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  18 AUG 2024 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,43 +1431,47 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \c@nlinenum=\count433
 \TeXr@lab=\toks79
 )
+(c:/texlive/2022/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen381
+)
 \sectitleindent=\skip136
 \subsectitleindent=\skip137
 LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
-32.
+33.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 137.
+h' as default language. on input line 201.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 201.
+LaTeX Font Info:    ... okay on input line 201.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count434
-\scratchdimen=\dimen381
+\scratchdimen=\dimen382
 \scratchbox=\box164
 \nofMPsegments=\count435
 \nofMParguments=\count436
 \everyMPshowfont=\toks80
 \MPscratchCnt=\count437
-\MPscratchDim=\dimen382
+\MPscratchDim=\dimen383
 \MPnumerator=\count438
 \makeMPintoPDFobject=\count439
 \everyMPtoPDFconversion=\toks81
@@ -1521,18 +1525,18 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 137.
+or `english'. on input line 201.
 
-Package chemgreek Info: Activating mapping `default' on line 137.
+Package chemgreek Info: Activating mapping `default' on line 201.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 137.
+ on input line 201.
 
-(./data/G10-BAI7.tex
+(./data/G10-BAI2.tex
 Ch\uhorn \ohorn ng 1.
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
 
@@ -1549,7 +1553,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (2.3998pt too wide) in alignment at lines 41--61
+Overfull \hbox (2.3998pt too wide) in alignment at lines 30--41
  [] [] [] [] [] 
  []
 
@@ -1583,6 +1587,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
 [3]
+<figs/BAI2-1.jpg, id=22, 723.30225pt x 305.34074pt>
+File: figs/BAI2-1.jpg Graphic file (type jpg)
+<use figs/BAI2-1.jpg>
+Package pdftex.def Info: figs/BAI2-1.jpg  used on input line 150.
+(pdftex.def)             Requested size: 386.95894pt x 163.358pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1591,7 +1601,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[4]
+[4 <./figs/BAI2-1.jpg>]
+<figs/BAI2-2.jpg, id=26, 531.78674pt x 287.8755pt>
+File: figs/BAI2-2.jpg Graphic file (type jpg)
+<use figs/BAI2-2.jpg>
+Package pdftex.def Info: figs/BAI2-2.jpg  used on input line 160.
+(pdftex.def)             Requested size: 409.72124pt x 221.79659pt.
+) (./data/G10-BAI7.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[5 <./figs/BAI2-2.jpg>]
+Ch\uhorn \ohorn ng 2.
+
+Overfull \hbox (2.3998pt too wide) in alignment at lines 41--61
+ [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[6
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
@@ -1614,7 +1683,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[5]
+[10]
 Overfull \hbox (15.39046pt too wide) in paragraph at lines 239--299
  [] 
  []
@@ -1632,7 +1701,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[6]
+[11]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1641,8 +1710,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[7]
-<figs//../figs/BAI7-1.png, id=40, 465.53925pt x 258.9675pt>
+[12]
+<figs//../figs/BAI7-1.png, id=57, 465.53925pt x 258.9675pt>
 File: figs//../figs/BAI7-1.png Graphic file (type png)
 <use figs//../figs/BAI7-1.png>
 Package pdftex.def Info: figs//../figs/BAI7-1.png  used on input line 397.
@@ -1656,7 +1725,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[8 <./figs//../figs/BAI7-1.png>])
+[13 <./figs//../figs/BAI7-1.png>])
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
@@ -1669,31 +1738,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[9] (./main.aux) ) 
+[14] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 41890 strings out of 476064
- 1034380 string characters out of 5794900
+ 42055 strings out of 476064
+ 1037095 string characters out of 5794900
  1877340 words of memory out of 5000000
- 61625 multiletter control sequences out of 15000+600000
+ 61778 multiletter control sequences out of 15000+600000
  525278 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,17n,118p,736b,1424s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super
--ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texliv
-e/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
-public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/
-vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/tex
-live/2022/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2022/texmf-
-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vn
-tex/vnr/vnr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
-
-Output written on main.pdf (9 pages, 204219 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
+r-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texli
+ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
+/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr
+/vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/te
+xlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2022/texmf
+-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/v
+ntex/vnr/vnr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb
+>
+Output written on main.pdf (14 pages, 373755 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

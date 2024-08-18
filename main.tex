@@ -24,6 +24,7 @@
 \usepackage{tabularx}
 \usepackage{makecell}
 \usepackage{titlesec}
+\usepackage{titletoc}
 % lệnh siunit 
 \newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
 \newcommand{\outfooter}{
@@ -133,15 +134,16 @@
 \DeclareMathAlphabet{\bbdx}{U}{BOONDOX-cal}{b}{n}
 \newcommand{\calE}{\bdx{E}}
 \newcommand{\calP}{\bdx{P}}
-
-\begin{document}
-	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
-	\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
-	\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcommand{\hoac}[1]{ %hệ hoặc
 	\left[\begin{aligned}#1\end{aligned}\right.}
 \newcommand{\heva}[1]{ %hệ và
 	\left\{\begin{aligned}#1\end{aligned}\right.}
+% Định nghĩa lại \part
+%\renewcommand{\thepart}{\arabic{part}}
+%\titleformat{\part}{\normalfont\bfseries}{Chương ~ \thepart.}{0.4em}{}
 % Định nghĩa lại \chapter
 \titleformat{\chapter}{\centering\LARGE\bfseries}{}{0pt}{}
 \titlespacing{\chapter}{0pt}{-25pt}{6pt}
@@ -151,8 +153,8 @@
 {\normalfont\bfseries}{\thesection.}{0.4em}{}
 % Định nghĩa subsection theo A, B, ...
 \renewcommand{\thesubsection}{\Alph{subsection}}
- \titleformat{\subsection}[block]
- {\normalfont\bfseries\hspace{1.5em}}{\thesubsection.}{0.4em}{}
+\titleformat{\subsection}[block]
+{\normalfont\bfseries\hspace{1.5em}}{\thesubsection.}{0.4em}{}
 % Định dạng lại kiểu đánh số equation
 \renewcommand{\theequation}{\arabic{equation}}   
 % Định dạng lại bảng
@@ -167,18 +169,42 @@
 %%%%%%%%%%%%%%%% Định nghĩa môi trường Hoạt động
 \newcommand{\hoatdong}[4]
 {
-\subsubsection{#1}
-\begin{enumerate}[label=\bfseries\itshape \arabic*., topsep=0pt, itemsep=0ex]
-	\item \textbf{\textit{Mục tiêu}}\\
-	#2
-	\item \textbf{\textit{Sản phẩm học tập}}\\
-	#3
-	\item \textbf{\textit{Tổ chức hoạt động}}\\
-	#4
-\end{enumerate}
-
+	\subsubsection{#1}
+	\begin{enumerate}[label=\bfseries\itshape \arabic*., topsep=0pt, itemsep=0ex]
+		\item \textbf{\textit{Mục tiêu}}\\
+		#2
+		\item \textbf{\textit{Sản phẩm học tập}}\\
+		#3
+		\item \textbf{\textit{Tổ chức hoạt động}}\\
+		#4
+	\end{enumerate}
+	
 }
+%======== MAIN TABLE OF CONTENTS
+\contentsmargin{1.5em}	
+\titlecontents{part}
+[3cm] % Left indentation
+{
+} % Spacing and font options for parts
+{}
+{}
+{}
+[\addvspace{5pt}\color{black}]
+
+% Chapter text styling
+\titlecontents{chapter}
+[1.25cm] % Left indentation
+{} % Spacing and font options for chapters
+{} % Formatting of numbered sections of this type
+{} % Formatting of numberless sections of this type
+{} % Formatting of the filler to the right of the heading and the page number
+\begin{document}
+		% ---------	Table of Contents (ToC) ---------
+%	\tableofcontents
+	
 % ====================================================== input data Bài 1
+%\part{CHƯƠNG 1}
 %\input{data/G10-BAI1}
+\input{data/G10-BAI2}
 \input{data/G10-BAI7}
 \end{document}
