@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  19 AUG 2024 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  26 AUG 2024 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1542,94 +1542,25 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 202.
 
-(./data/G10-BAI1.tex
+(./data/G10-BAI3.tex
 Ch\uhorn \ohorn ng 1.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
-
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 32
+8.
 (c:/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 328
+.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 328
+.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-Overfull \hbox (2.3998pt too wide) in alignment at lines 41--54
- [] [] [] [] [] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[2]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[3]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[5]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[6]
-<figs/BAI1-1.jpg, id=31, 537.207pt x 458.9145pt>
-File: figs/BAI1-1.jpg Graphic file (type jpg)
-<use figs/BAI1-1.jpg>
-Package pdftex.def Info: figs/BAI1-1.jpg  used on input line 231.
-(pdftex.def)             Requested size: 460.9315pt x 393.76245pt.
-)
+))
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
@@ -1642,26 +1573,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[7 <./figs/BAI1-1.jpg>] (./main.aux) ) 
+[1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 41963 strings out of 476064
- 1035647 string characters out of 5794900
- 1870340 words of memory out of 5000000
- 61691 multiletter control sequences out of 15000+600000
- 525278 words of font info for 62 fonts, out of 8000000 for 9000
+ 41922 strings out of 476064
+ 1034965 string characters out of 5794900
+ 1868340 words of memory out of 5000000
+ 61658 multiletter control sequences out of 15000+600000
+ 524107 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,16n,118p,736b,1134s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvi
-ps/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-
-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb
-><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2022/
-texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2022/texmf-dist/fonts
-/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vn
-r12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
-Output written on main.pdf (7 pages, 188855 bytes).
+ 117i,23n,118p,736b,951s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:
+/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/20
+22/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts
+/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/v
+nbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texli
+ve/2022/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2022/texmf-dist/
+fonts/type1/vntex/vnr/vnti12.pfb>
+Output written on main.pdf (1 page, 107848 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
