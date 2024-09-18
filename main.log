@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  17 SEP 2024 00:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  18 SEP 2024 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1598,46 +1598,61 @@ x
 2024/02/04 5.06c tkz-obj-eu-show.tex
 ) (c:/texlive/2024/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-protractor.tex
 2024/02/04 5.06c tkz-obj-eu-protractor.tex
-))
+)) (c:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/multido/multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(c:/texlive/2024/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count442
+\multidocount=\count443
+\multido@stuff=\toks83
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
 \sectitleindent=\skip137
 \subsectitleindent=\skip138
 LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
-35.
+37.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 203.
+h' as default language. on input line 208.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 203.
-LaTeX Font Info:    ... okay on input line 203.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count442
+\scratchcounter=\count444
 \scratchdimen=\dimen399
 \scratchbox=\box168
-\nofMPsegments=\count443
-\nofMParguments=\count444
-\everyMPshowfont=\toks83
-\MPscratchCnt=\count445
+\nofMPsegments=\count445
+\nofMParguments=\count446
+\everyMPshowfont=\toks84
+\MPscratchCnt=\count447
 \MPscratchDim=\dimen400
-\MPnumerator=\count446
-\makeMPintoPDFobject=\count447
-\everyMPtoPDFconversion=\toks84
+\MPnumerator=\count448
+\makeMPintoPDFobject=\count449
+\everyMPtoPDFconversion=\toks85
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1688,16 +1703,16 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 203.
+or `english'. on input line 208.
 
-Package chemgreek Info: Activating mapping `default' on line 203.
+Package chemgreek Info: Activating mapping `default' on line 208.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 203.
+ on input line 208.
 
 (./data/G10-BAI5.tex
 Ch\uhorn \ohorn ng 1.
@@ -1837,125 +1852,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[7]) (./data/G10-BAI7.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[8]
-Ch\uhorn \ohorn ng 2.
-
-Overfull \hbox (2.3998pt too wide) in alignment at lines 41--61
- [] [] [] [] [] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[9
-
-]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[10]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[11]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
-
- []
-
-
-Overfull \hbox (43.84322pt too wide) in paragraph at lines 205--236
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[13]
-Overfull \hbox (15.39046pt too wide) in paragraph at lines 239--299
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[14]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[15]
-<figs/../figs/BAI7-1.png, id=70, 465.53925pt x 258.9675pt>
-File: figs/../figs/BAI7-1.png Graphic file (type png)
-<use figs/../figs/BAI7-1.png>
-Package pdftex.def Info: figs/../figs/BAI7-1.png  used on input line 397.
-(pdftex.def)             Requested size: 193.47577pt x 107.6236pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[16 <./figs/../figs/BAI7-1.png>])
+[7])
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
@@ -1968,34 +1865,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[17] (./main.aux)
+[8] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 45871 strings out of 474116
- 1135076 string characters out of 5747718
- 1954190 words of memory out of 5000000
- 67392 multiletter control sequences out of 15000+600000
+ 45885 strings out of 474116
+ 1135588 string characters out of 5747718
+ 1947190 words of memory out of 5000000
+ 67399 multiletter control sequences out of 15000+600000
  571060 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1205b,1491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,17n,121p,1170b,1197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
-cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.
-pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/20
-24/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fo
-nts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr
-/vnr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
-Output written on main.pdf (17 pages, 589835 bytes).
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/v
+nr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/
+texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/tex
+mf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1
+/vntex/vnr/vnr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti12.p
+fb>
+Output written on main.pdf (8 pages, 517086 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

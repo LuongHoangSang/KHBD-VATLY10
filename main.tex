@@ -27,6 +27,8 @@
 \usepackage{titletoc}
 \usepackage{colortbl}
 \usepackage{tkz-euclide}
+\usepackage{lscape}
+\usepackage{multido}
 % lệnh siunit 
 \newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
 \newcommand{\outfooter}{
@@ -200,16 +202,22 @@
 {} % Formatting of numbered sections of this type
 {} % Formatting of numberless sections of this type
 {} % Formatting of the filler to the right of the heading and the page number
+\newcommand{\Pointilles}[1][3]{%
+	\multido{}{#1}{\makebox[\linewidth]{\dotfill}\\[\parskip]}
+}
 \begin{document}
 		% ---------	Table of Contents (ToC) ---------
 %	\tableofcontents
 	
 % ====================================================== input data Bài 1
 %\part{CHƯƠNG 1}
+%\input{data/DANHGIATHUCHANH}
+%\input{data/BAOCAOTN}
 %\input{data/G10-BAI1}
 %\input{data/G10-BAI2}
 %\input{data/G10-BAI3}
 %\input{data/G10-BAI4}
 \input{data/G10-BAI5}
-\input{data/G10-BAI7}
+%\input{data/G10-BAI6}
+%\input{data/G10-BAI7}
 \end{document}
