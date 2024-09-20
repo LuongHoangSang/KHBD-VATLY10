@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  18 SEP 2024 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  19 SEP 2024 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1714,23 +1714,31 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 208.
 
-(./data/G10-BAI5.tex
-Ch\uhorn \ohorn ng 1.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
+(./data/DANHGIATHUCHANH.tex
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
+
 
 (c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \vbox (17.9945pt too high) detected at line 99
+ []
+
+
+Overfull \hbox (2.79977pt too wide) in alignment at lines 29--129
+ [] [] [] [] [] [] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1741,14 +1749,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
+]
 
-{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (2.3998pt too wide) in alignment at lines 35--53
- [] [] [] [] [] 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[2])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[3] (./data/BAOCAOTN1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
@@ -1760,57 +1790,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[2]
-<figs/G10-BAI5-1.jpg, id=22, 559.33969pt x 295.1025pt>
-File: figs/G10-BAI5-1.jpg Graphic file (type jpg)
-<use figs/G10-BAI5-1.jpg>
-Package pdftex.def Info: figs/G10-BAI5-1.jpg  used on input line 97.
-(pdftex.def)             Requested size: 193.10701pt x 101.8825pt.
-<figs/G10-BAI5-2.jpg, id=23, 420.82219pt x 315.42844pt>
-File: figs/G10-BAI5-2.jpg Graphic file (type jpg)
-<use figs/G10-BAI5-2.jpg>
-Package pdftex.def Info: figs/G10-BAI5-2.jpg  used on input line 97.
-(pdftex.def)             Requested size: 193.10701pt x 144.74266pt.
-<figs/G10-BAI5-3.jpg, id=24, 451.6875pt x 338.76563pt>
-File: figs/G10-BAI5-3.jpg Graphic file (type jpg)
-<use figs/G10-BAI5-3.jpg>
-Package pdftex.def Info: figs/G10-BAI5-3.jpg  used on input line 97.
-(pdftex.def)             Requested size: 193.10701pt x 144.83414pt.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[3 <./figs/G10-BAI5-1.jpg> <./figs/G10-BAI5-2.jpg> <./figs/G10-BAI5-3.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
-
- []
-
-<figs/G10-BAI5-4.jpg, id=28, 882.57pt x 159.87pt>
-File: figs/G10-BAI5-4.jpg Graphic file (type jpg)
-<use figs/G10-BAI5-4.jpg>
-Package pdftex.def Info: figs/G10-BAI5-4.jpg  used on input line 128.
-(pdftex.def)             Requested size: 337.94095pt x 61.2147pt.
-<figs/G10-BAI5-5.jpg, id=29, 882.6576pt x 314.6154pt>
-File: figs/G10-BAI5-5.jpg Graphic file (type jpg)
-<use figs/G10-BAI5-5.jpg>
-Package pdftex.def Info: figs/G10-BAI5-5.jpg  used on input line 128.
-(pdftex.def)             Requested size: 337.94095pt x 120.45761pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.05428pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.05428pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
-
-[4 <./figs/G10-BAI5-4.jpg> <./figs/G10-BAI5-5.jpg>]
-Overfull \hbox (26.5293pt too wide) in paragraph at lines 190--190
- [] 
  []
 
 
@@ -1822,12 +1804,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--235
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
  []
 
@@ -1839,8 +1816,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 267--271
+[6{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+Underfull \hbox (badness 10000) in paragraph at lines 82--212
 
  []
 
@@ -1852,12 +1829,61 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[7])
+[7] (./data/BAOCAOTN2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[8]
+Overfull \hbox (6.04497pt too wide) in paragraph at lines 26--37
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[9])
+Underfull \hbox (badness 10000) in paragraph at lines 43--221
+
+ []
+
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
 
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.05428pt}.
@@ -1865,34 +1891,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[8] (./main.aux)
+[10] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 45885 strings out of 474116
- 1135588 string characters out of 5747718
- 1947190 words of memory out of 5000000
- 67399 multiletter control sequences out of 15000+600000
- 571060 words of font info for 66 fonts, out of 8000000 for 9000
+ 45753 strings out of 474116
+ 1132858 string characters out of 5747718
+ 2018190 words of memory out of 5000000
+ 67260 multiletter control sequences out of 15000+600000
+ 571050 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1170b,1197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,20n,121p,1170b,1103s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/v
-nr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/
-texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1
-/vntex/vnr/vnr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti12.p
-fb>
-Output written on main.pdf (8 pages, 517086 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/
+vntex/vnr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.p
+fb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2
+024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-dist/font
+s/type1/vntex/vnr/vnr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/v
+nr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
+Output written on main.pdf (10 pages, 161129 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 101 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
