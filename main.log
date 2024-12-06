@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  22 SEP 2024 17:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  4 NOV 2024 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1619,26 +1619,26 @@ LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
 37.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 208.
+h' as default language. on input line 209.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 208.
-LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
 
 (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1703,42 +1703,34 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 208.
+or `english'. on input line 209.
 
-Package chemgreek Info: Activating mapping `default' on line 208.
+Package chemgreek Info: Activating mapping `default' on line 209.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 208.
+ on input line 209.
 
-(./data/DANHGIATHUCHANH.tex
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
-
+(./data/G10-BAI1.tex
+Ch\uhorn \ohorn ng 1.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
 
 (c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \vbox (17.9945pt too high) detected at line 99
- []
-
-
-Overfull \hbox (2.79977pt too wide) in alignment at lines 29--129
- [] [] [] [] [] [] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1749,7 +1741,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]
+
+{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (2.3998pt too wide) in alignment at lines 41--54
+ [] [] [] [] [] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1758,7 +1755,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[2])
+[2]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1767,21 +1764,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[3] (./data/BAOCAOTN1.tex
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
+[3]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.05428pt, for example:
@@ -1791,7 +1774,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
 
  []
 
@@ -1804,7 +1787,148 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 73--80
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[6]
+<figs/BAI1-1.jpg, id=31, 537.207pt x 458.9145pt>
+File: figs/BAI1-1.jpg Graphic file (type jpg)
+<use figs/BAI1-1.jpg>
+Package pdftex.def Info: figs/BAI1-1.jpg  used on input line 229.
+(pdftex.def)             Requested size: 460.9315pt x 393.76245pt.
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[7 <./figs/BAI1-1.jpg>] (./data/G10-BAI2.tex
+Ch\uhorn \ohorn ng 2.
+
+Overfull \hbox (2.3998pt too wide) in alignment at lines 30--41
+ [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[8
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[10]
+<figs/BAI2-1.jpg, id=45, 723.30225pt x 305.34074pt>
+File: figs/BAI2-1.jpg Graphic file (type jpg)
+<use figs/BAI2-1.jpg>
+Package pdftex.def Info: figs/BAI2-1.jpg  used on input line 150.
+(pdftex.def)             Requested size: 386.95894pt x 163.358pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[11 <./figs/BAI2-1.jpg>]
+<figs/BAI2-2.jpg, id=49, 531.78674pt x 287.8755pt>
+File: figs/BAI2-2.jpg Graphic file (type jpg)
+<use figs/BAI2-2.jpg>
+Package pdftex.def Info: figs/BAI2-2.jpg  used on input line 160.
+(pdftex.def)             Requested size: 409.72124pt x 221.79659pt.
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[12 <./figs/BAI2-2.jpg>] (./data/G10-BAI3.tex
+Ch\uhorn \ohorn ng 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[13
+
+]
+Overfull \hbox (2.3998pt too wide) in alignment at lines 42--62
+ [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
@@ -1816,8 +1940,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[6{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
-Underfull \hbox (badness 10000) in paragraph at lines 82--212
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
@@ -1829,37 +1953,354 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
 
-[7]
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[21]
+Overfull \hbox (2.3998pt too wide) in alignment at lines 382--392
+ [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[22]
+<figs/BAI3-1.jpg, id=92, 1027.4385pt x 271.0125pt>
+File: figs/BAI3-1.jpg Graphic file (type jpg)
+<use figs/BAI3-1.jpg>
+Package pdftex.def Info: figs/BAI3-1.jpg  used on input line 443.
+(pdftex.def)             Requested size: 338.5863pt x 89.31033pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[23 <./figs/BAI3-1.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[24])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[25] (./data/G10-BAI5.tex
+Ch\uhorn \ohorn ng 4.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[26
+
+]
+Overfull \hbox (2.3998pt too wide) in alignment at lines 35--53
+ [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[27]
+<figs/G10-BAI5-1.jpg, id=110, 559.33969pt x 295.1025pt>
+File: figs/G10-BAI5-1.jpg Graphic file (type jpg)
+<use figs/G10-BAI5-1.jpg>
+Package pdftex.def Info: figs/G10-BAI5-1.jpg  used on input line 97.
+(pdftex.def)             Requested size: 193.10701pt x 101.8825pt.
+<figs/G10-BAI5-2.jpg, id=111, 420.82219pt x 315.42844pt>
+File: figs/G10-BAI5-2.jpg Graphic file (type jpg)
+<use figs/G10-BAI5-2.jpg>
+Package pdftex.def Info: figs/G10-BAI5-2.jpg  used on input line 97.
+(pdftex.def)             Requested size: 193.10701pt x 144.74266pt.
+<figs/G10-BAI5-3.jpg, id=112, 451.6875pt x 338.76563pt>
+File: figs/G10-BAI5-3.jpg Graphic file (type jpg)
+<use figs/G10-BAI5-3.jpg>
+Package pdftex.def Info: figs/G10-BAI5-3.jpg  used on input line 97.
+(pdftex.def)             Requested size: 193.10701pt x 144.83414pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[28 <./figs/G10-BAI5-1.jpg> <./figs/G10-BAI5-2.jpg> <./figs/G10-BAI5-3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+
+ []
+
+<figs/G10-BAI5-4.jpg, id=116, 882.57pt x 159.87pt>
+File: figs/G10-BAI5-4.jpg Graphic file (type jpg)
+<use figs/G10-BAI5-4.jpg>
+Package pdftex.def Info: figs/G10-BAI5-4.jpg  used on input line 128.
+(pdftex.def)             Requested size: 337.94095pt x 61.2147pt.
+<figs/G10-BAI5-5.jpg, id=117, 882.6576pt x 314.6154pt>
+File: figs/G10-BAI5-5.jpg Graphic file (type jpg)
+<use figs/G10-BAI5-5.jpg>
+Package pdftex.def Info: figs/G10-BAI5-5.jpg  used on input line 128.
+(pdftex.def)             Requested size: 337.94095pt x 120.45761pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[29 <./figs/G10-BAI5-4.jpg> <./figs/G10-BAI5-5.jpg>]
+Overfull \hbox (26.5293pt too wide) in paragraph at lines 190--190
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 267--271
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[32])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[33] (./data/G10-BAI7.tex
+Ch\uhorn \ohorn ng 5.
+
+Overfull \hbox (2.3998pt too wide) in alignment at lines 41--61
+ [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[34
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Overfull \hbox (43.84322pt too wide) in paragraph at lines 205--236
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[38]
+Overfull \hbox (15.39046pt too wide) in paragraph at lines 239--299
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[39]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[40]
+<figs/../figs/BAI7-1.png, id=156, 465.53925pt x 258.9675pt>
+File: figs/../figs/BAI7-1.png Graphic file (type png)
+<use figs/../figs/BAI7-1.png>
+Package pdftex.def Info: figs/../figs/BAI7-1.png  used on input line 397.
+(pdftex.def)             Requested size: 193.47577pt x 107.6236pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[41 <./figs/../figs/BAI7-1.png>])
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
- (./main.aux)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.05428pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.05428pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.05428pt}.
+
+[42] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 45743 strings out of 474116
- 1132627 string characters out of 5747718
- 2018190 words of memory out of 5000000
- 67253 multiletter control sequences out of 15000+600000
- 571050 words of font info for 66 fonts, out of 8000000 for 9000
+ 46075 strings out of 474116
+ 1138808 string characters out of 5747718
+ 1965190 words of memory out of 5000000
+ 67573 multiletter control sequences out of 15000+600000
+ 574970 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,20n,121p,1170b,1103s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texm
-f-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fon
-ts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr
-/vnbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/
-texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/texmf-
-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vn
-tex/vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
-Output written on main.pdf (7 pages, 147001 bytes).
+ 117i,23n,121p,1170b,1539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
+fb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/202
+4/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2024/texmf-dist/fonts
+/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr
+/vnr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texl
+ive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/
+fonts/type1/vntex/vnr/vnti12.pfb>
+Output written on main.pdf (42 pages, 999597 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 232 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
