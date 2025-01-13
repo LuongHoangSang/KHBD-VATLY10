@@ -178,8 +178,11 @@ GV chỉnh lí, hợp thức hoá kiến thức.
 	Kết quả thảo luận nhóm của HS.
 }
 {\textit{\underline{* GV chuyển giao nhiệm vụ học tập}}\\
-	GV ôn tập lại cho HS phần đồ thị hàm số bậc nhất, nội dung ôn tập như sau:\\
-	Đồ thị hàm số $y=ax+b\ \left(a\neq0\right)$ là đường thẳng.
+	GV ôn tập lại cho HS phần đồ thị hàm số bậc nhất, nội dung ôn tập như sau:
+	\begin{itemize}
+		\item Đồ thị hàm số $y=ax+b\ \left(a\neq0\right)$ là đường thẳng.
+		\item Hệ số góc của đường thẳng $a=\tan\beta=\dfrac{\Delta y}{\Delta x}=\dfrac{y_{\mathrm{B}}-y_{\mathrm{A}}}{x_{\mathrm{B}}-x_{\mathrm{A}}}.$
+	\end{itemize}
 	\begin{center}
 		\begin{tabular}{M{8cm}M{8cm}}
 			\begin{tikzpicture}  
@@ -255,5 +258,244 @@ GV chỉnh lí, hợp thức hoá kiến thức.
 		\end{tikzpicture}
 		
 	\end{center}
+	\begin{itemize}
+		\item Hệ số góc $a$ càng lớn thì góc $\beta$ càng lớn (đồ thị càng dốc).
+	\end{itemize}
+GV hướng dẫn HS xây dựng phương trình tọa độ của vật chuyển động thẳng đều:
+\begin{itemize}
+	\item Chất điểm chuyển động thẳng đều: 
+	$$v=\dfrac{d}{\Delta t}=const\Rightarrow d=v\Delta t=v\left(t-t_0\right).$$
+	\item Nếu chọn gốc thời gian lúc vật qua gốc toạ độ $(t_0=0)$, thì phương trình độ dịch chuyển của chất điểm so với gốc toạ độ: $d=v\cdot t$.\\
+	Như vậy, đồ thị độ dịch chuyển thời gian của vật chuyển động thẳng đều là 1 đường thẳng:
+	\begin{center}
+		\begin{tikzpicture}  
+			\begin{axis}[  ultra thick,
+				xmin=-1,  
+				xmax=7,  
+				ymin=-1,  
+				ymax=4.5, 
+				samples=300,
+				xtick={2, 5},
+				ytick={1.3333, 3.3333},
+				yticklabels={$d_A$, $d_B$},
+				xticklabels={$t_A$, $t_B$},
+				axis lines=center, 
+				xlabel=$t$, 		ylabel=$d$,
+				every axis y label/.style={at=(current axis.above origin),anchor=south},  
+				every axis x label/.style={at=(current axis.right of origin),anchor=west},  ]
+				\coordinate (A) at (axis cs: 2, 1.3333);
+				\coordinate (B) at (axis cs: 5, 3.3333);
+				\coordinate (C) at (axis cs: 6, 1.3333);
+				\draw[stealth-stealth] (axis cs: 2,1)--(axis cs: 5,1);
+				\draw[stealth-stealth] (axis cs: 5.2,3.3333)--(axis cs: 5.2,1.3333);
+				\addplot [ultra thick, blue, smooth, domain=0:6] {2*x/3};
+				\node[below left] at (axis cs: 0, 0) {O}; 
+				\draw[dashed, line width=1pt] (axis cs: 2,0)--(A)--(axis cs:0,1.3333);
+				\draw[dashed, line width=1pt] (axis cs: 5,0)--(B)--(axis cs:0,3.3333);
+				\draw[dashed, line width=1pt, red] (A)--(axis cs:6,1.3333);
+				\fill[red]   (A) circle[radius=2.5pt]  node [above] {$A$};
+				\fill[red]   (B) circle[radius=2.5pt]  node [above] {$B$};
+				\node[below] at (axis cs: 3.5, 1) {$\Delta t$};
+				\node[right] at (axis cs: 5.2, 2.3333) {$\Delta d$};
+			\end{axis} 
+			\tkzMarkAngle[size=0.75cm,color=red, line width=1pt](C,A,B);
+			\tkzLabelAngle[color=black,pos=1.2](C,A,B){$\beta$}; 
+		\end{tikzpicture}
+		
+	\end{center}
+	\begin{itemize}
+		\item Độ dốc của đồ thị $d\left(t\right)$ càng lớn, vật chuyển động càng nhanh (tốc độ càng lớn): $v=\tan\beta=\dfrac{\Delta d}{\Delta t}=\dfrac{d_{\mathrm{B}}-d_{\mathrm{A}}}{t_{\mathrm{B}}-t_{\mathrm{A}}}$.
+		\item Nếu hệ số góc của đồ thị $d\left(t\right)$ âm, vật đang chuyển động ngược chiều dương.
+	\end{itemize}
+\end{itemize}
+GV yêu cầu HS thảo luận nhóm đôi để thực hiện ví dụ 1 trong thời gian 15 phút, sau 15 phút GV mời đại diện của 1 nhóm HS bất kì lên bảng giải bài.\\
+GV dẫn dắt HS từ phương trình độ dịch chuyển - thời gian của vật chuyển động thẳng đều suy ra phương trình tọa độ - thời gian của vật chuyển động thẳng đều:
+ $$d=x-x_0=vt\Rightarrow x=x_0+vt.$$
+ GV dùng kĩ thuật tia chớp, yêu cầu HS thực hiện ví dụ 2, HS có kết quả nhanh nhất sẽ lên bảng giải bài và nhận được 1 điểm cộng.\\
+ GV yêu cầu HS thảo luận nhóm đôi để thực hiện ví dụ 3. Sau 15 phút, GV mời đại diện 1 nhóm HS lên bảng trình bày kết quả. \\
+ \textit{\underline{* HS thực hiện nhiệm vụ học tập}}\\
+ HS theo dõi, tích cực trả lời câu hỏi của GV.\\
+ HS thảo luận nhóm đôi để thực hiện ví dụ 1 và ví dụ 3.\\
+ HS làm việc cá nhân để thực hiện ví dụ 2.\\
+ \textit{\underline{* HS báo cáo kết quả thực hiện nhiệm vụ học tập}}\\
+ HS lên bảng trình bày kết quả ví dụ 1, ví dụ 2, ví dụ 3.\\
+ Các nhóm HS theo dõi bài làm của nhóm bạn để đặt câu hỏi, nhận xét.\\
+ GV chỉnh lí, hợp thức hóa kiến thức.
+ 
 }
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hoatdong{
+	Luyện tập.
+}
+{
+\begin{itemize}
+	\item HS tính được tốc độ từ độ dốc của đồ thị độ dịch chuyển - thời gian.
+	\item HS vận dụng được công thức tính tốc độ, vận tốc.
+\end{itemize}
+}
+{
+	Bài tập cá nhân của học sinh.
+}
+{
+	\textit{\underline{GV chuyển giao nhiệm vụ học tập}}\\
+	GV lần lượt chuyển giao từng bài tập, yêu cầu HS hoạt động cá nhân để giải.\\
+	\textit{\underline{HS thực hiện nhiệm vụ học tập}}\\
+	HS \textit{(làm việc cá nhân)}:  Giải bài tập trong phiếu bài tập được GV giao. 
+	
+	GV: Theo dõi để phát hiện các HS gặp khó khăn, từ đó đưa ra sự định hướng, hỗ trợ phù hợp cho mỗi HS.\\
+	\textit{\underline{HS báo cáo kết quả thực hiện nhiệm vụ học tập}}\\
+	GV: Mời HS lên bảng giải bài tập.
+	
+	HS: Đặt câu hỏi, góp ý.
+	
+	GV: Chỉnh lí, hợp thức hoá kiến thức.
+}
+\section{HỒ SƠ DẠY HỌC}
+\subsection{NỘI DUNG DẠY HỌC}
+\begin{enumerate}[label=\bfseries\Roman*.]
+\item \textbf{Tốc độ trung bình}\\ Tốc độ trung bình của vật được xác định bằng thương số giữa quãng đường vật đi được và thời gian để vật thực hiện được quãng đường ấy.
+$$\overline{v_{\mathrm{tb}}}=\dfrac{S}{\Delta t}=\dfrac{S_1+S_2+\dots+S_n}{\Delta t_1+\Delta t_2+\dots+\Delta t_n}.$$
+Trong đó:
+\begin{itemize}
+	\item $\overline{v_{\mathrm{tb}}}$: Tốc độ trung bình có đơn vị trong hệ SI là $\si{\meter/\second}$;
+	\item $S$: quãng đường vật đi được luôn dương và có đơn vị trong hệ SI là $\si{\meter}$;
+	\item $\Delta t$: thời gian có đơn vị trong hệ SI là $\si{\second}$.
+\end{itemize}	
+	\item \textbf{Độ dịch chuyển}\\ Độ dịch chuyển là một đại lượng vector $\vec{d}$ có gốc tại vị trí ban đầu, hướng từ vị trí đầu đến vị trí cuối, độ lớn bằng khoảng cách giữa vị trí đầu và vị trí cuối. Độ dịch chuyển có thể nhận giá trị dương, âm hoặc bằng không.
+	$$d=\Delta x=x_2-x_1.$$
+	Trong đó:
+	\begin{itemize}
+		\item $x_1$: tọa độ lúc ban đầu của vật;
+		\item $x_2$: tọa độ cuối của vật.
+	\end{itemize}
+	\textbf{* Chú ý:} Độ dịch chuyển $d$ trùng với quãng đường $s$ khi vật chỉ chuyển động theo một chiều và chọn chiều đó làm chiều dương của trục tọa độ.
+	\item \textbf{Vận tốc trung bình}
+	$$v_{\mathrm{tb}}=\dfrac{d}{\Delta t}=\dfrac{\Delta x}{\Delta t}=\dfrac{x_2-x_1}{t_2-t_1}.$$
+	\item \textbf{Phương trình chuyển động thẳng đều}
+	$$x=x_0+v\left(t-t_0\right)$$
+	Trong đó:
+	\begin{itemize}
+		\item $x$ là tọa độ của vật ở thời điểm $t$;
+		\item $x_0$ là tọa độ của vật ở thời điểm ban đầu $t_0$;
+		\item $v$ là vận tốc tức thời.
+	\end{itemize}
+	\item \textbf{Đồ thị độ dịch chuyển - thời gian}\\
+	Ta xét chất điểm chuyển động thẳng đều:
+	\begin{itemize}
+		\item Chuyển động thẳng đều là chuyển động thẳng, trong đó chất điểm có vận tốc tức thời không đổi.
+		\item Gọi $x_0$ là tọa độ của chất điểm tại thời điểm ban đầu $t_0$, $x$ là tọa độ thời điểm $t$ sau đó và độ dịch chuyển $d=x-x_0$. Vận tốc của chất điểm bằng: $v=\dfrac{d}{t}=\dfrac{x-x_0}{t}=\text{hằng số}$.\\
+	\end{itemize}
+	Từ đó: $d=vt\hspace{0.5cm} (1)$ và $x=x_0+vt\hspace{0.5cm}(2)$.\\
+	Ta biểu diễn phương trình (1) và (2) bằng đồ thị.\\
+	* Đồ thị $\left(d-t\right)$ là một đường thẳng đi qua gốc tọa độ. Một số dạng đồ thị sau:
+	\begin{center}
+		\includegraphics[scale=0.9]{../figs/G10-BAI4-1}
+	\end{center}
+	* Đồ thị $\left(x-t\right)$ là một đường xiên góc xuất phát từ điểm $\left(x_0;0\right)$. Một số dạng đồ thị sau:
+	\begin{center}
+		\includegraphics[scale=0.5]{../figs/G10-BAI4-2}
+	\end{center}
+\end{enumerate}
+\subsection{CÁC HỒ SƠ KHÁC}
+\textbf{* Các câu hỏi ví dụ}\\
+\setcounter{ex}{0}
+% ======================================================================
+\begin{ex}
+	Một chiếc xe đồ chơi đang chuyển động đều trên các đoạn thẳng có độ dịch chuyển tại các thời điểm khác nhau được cho trong bảng dưới đây
+	\begin{center}
+		\begin{tabular}{|M{3cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|M{1cm}|}
+			\hline
+			\textbf{Thời gian} & 0 & 2 & 4 & 6 & 8 & 10 & 12 & 14 & 16 & 18 & 20\\
+			\hline
+			\textbf{Độ dịch chuyển $\left(\si{\meter}\right)$} & 0 & 3 & 4 & 4 & 4 & 7 & 10 & 8 & 6 & 4 & 4\\
+			\hline
+		\end{tabular}
+	\end{center}
+	\begin{enumerate}[label=\alph*)]
+		\item Hãy vẽ đồ thị độ dịch chuyển – thời gian của xe đồ chơi.
+		\item Hãy xác định vận tốc và tốc độ tức thời tại các thời điểm $\SI{2}{\second}$, $\SI{6}{\second}$, $\SI{10}{\second}$ và $\SI{16}{\second}$.
+		\end{enumerate}
+	\loigiai{
+	\begin{enumerate}[label=\alph*)]
+		\item Đồ thị độ dịch chuyển – thời gian của xe đồ chơi
+		\begin{center}
+			\includegraphics[scale=0.4]{../figs/G10-BAI4-3}
+		\end{center}
+		\item Vận tốc tức thời và tốc độ tức thời tại các thời điểm:
+		\begin{itemize}
+			\item $t=\SI{2}{\second}$:\\
+			$v=\dfrac{2-0}{2-0}=\SI{1}{\meter/\second}$; $\left|v\right|=\SI{1}{\meter/\second}$.
+			\item $t=\SI{6}{\second}$:\\
+			$v=\dfrac{4-4}{6-4}=\SI{0}{\meter/\second}$; $\left|v\right|=\SI{0}{\meter/\second}$.
+			\item $t=\SI{10}{\second}$:\\
+			$v=\dfrac{10-4}{12-8}=\SI{1.5}{\meter/\second}$; $\left|v\right|=\SI{1.5}{\meter/\second}$.
+			\item $t=\SI{16}{\second}$:\\
+			$v=\dfrac{4-10}{18-12}=\SI{-1}{\meter/\second}$; $\left|v\right|=\SI{1}{\meter/\second}$.
+		\end{itemize}
+	\end{enumerate}
+	}
+\end{ex}
+% ======================================================================
+\begin{ex}
+	Phương trình chuyển động của chất điểm dọc theo trục Ox có dạng $x=135-45t$ ($x$ đo bằng kilomet, $t$ đo bằng giờ).
+	\begin{enumerate}[label=\alph*)]
+		\item Chất điểm xuất phát từ điểm nào? Xác định trạng thái chuyển động của chất điểm.
+		\item Xác định vị trí chất điểm tại thời điểm $t=\SI{2}{\hour}$.
+		\item Xác định thời điểm chất điểm qua gốc tọa độ.
+	\end{enumerate}
+	\loigiai{
+	\begin{enumerate}[label=\alph*)]
+		\item  Chất điểm xuất phát từ điểm có tọa độ $x_0=\SI{135}{\kilo\meter}$ và chuyển động thẳng đều.
+		\item Tại thời điểm $t=\SI{2}{\hour}$ thì $x=\SI{45}{\kilo\meter}$.
+		\item Chất điểm qua gốc tọa độ thì $x=0\Rightarrow t=\SI{3}{\hour}$.
+	\end{enumerate}
+	}
+\end{ex}
+% ======================================================================
+\begin{ex}
+	Lúc 6 giờ sáng một người đi xe đạp đuổi theo một người đi bộ đã đi được $\SI{8}{\kilo\meter}$. Cả hai chuyển động thẳng đều với các tốc độ lần lượt là $\SI{12}{\kilo\meter/\hour}$ và $\SI{4}{\kilo\meter/\hour}$.
+	\begin{enumerate}[label=\alph*)]
+		\item Lập phương trình chuyển động của mỗi người trong cùng hệ quy chiếu.
+		\item Vẽ đồ thị tọa độ - thời gian của hai người trên cùng hệ trục tọa độ.
+		\item Xác định thời điểm và vị trí hai người gặp nhau.
+		
+	\end{enumerate}
+	\loigiai{
+	\begin{enumerate}[label=\alph*)]
+		\item Chọn gốc tọa độ tại vị trí xuất phát của người đi xe đạp, chiều dương cùng chiều chuyển động của hai người. Gốc thời gian lúc 6 giờ sáng.\\
+		Phương trình chuyển động của mỗi người:
+		$$\begin{cases}
+			x_{\text{xđ}}=12t\\
+			x_{\text{b}}=8+4t
+		\end{cases}\left(\si{\kilo\meter}; \si{\hour}\right).$$
+		\item Vẽ đồ thị tọa độ - thời gian của hai người trên cùng hệ trục tọa độ
+		\begin{center}
+			\begin{tikzpicture}  
+				\begin{axis}[  ultra thick,
+					xmin=0,  
+					xmax=2.25,  
+					xtick={0,0.5,...,2},
+					ytick={0,12,24},
+					minor x tick num=0,
+					minor y tick num=0,
+					ymin=0,  
+					ymax=28, 
+					samples=300,
+					axis lines=center, 
+					grid style={step=1, line width =0.4pt, color=gray!40!white},
+					grid=both, %giới hạn ô lưới
+					major grid style={line width=0.8pt,gray!75!white},
+					xlabel=$\xsi{t}{\left(\si{\hour}\right)}$, 		ylabel=$\xsi{x}{\left(\si{\kilo\meter}\right)}$,
+					every axis y label/.style={at=(current axis.above origin),anchor=south},  
+					every axis x label/.style={at=(current axis.right of origin),anchor=west},  ]
+					\addplot [line width=1.5pt, red, smooth, domain=0:2] {12*x} node[right] {$x_{\text{xđ}}$}; 
+					\addplot [line width=1.5pt, blue, smooth, domain=0:2] {8+4*x} node[right] {$x_{\text{b}}$}; 
+					\coordinate (O) at (axis cs: 0,0);
+				\end{axis}  
+				\node[below left] at (O) {0};
+			\end{tikzpicture}
+		\end{center}
+		\item Dựa vào đồ thị, hai người gặp nhau lúc $t=\SI{1}{\hour}$ tại vị trí cách gốc tọa độ $x=\SI{12}{\kilo\meter}$.
+	\end{enumerate}
+	}
+\end{ex}
