@@ -2,8 +2,9 @@
 % ============================================================ EX-TEST
 \usepackage[utf8]{vietnam}
 \usepackage[most, xparse, many]{tcolorbox}
-%\usepackage{ex_test}
-\usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
+\tcbuselibrary{skins} % thư viện bổ sung cho tcolorbox
+\usepackage{ex_test}
+%\usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
 \renewtheorem{ex}{\color{blue!90!black} Câu}
 \usepackage{amsmath,amssymb,tikz,mathrsfs,tkz-tab}
 \usepackage{fontawesome}
@@ -19,16 +20,44 @@
 	\usetikzlibrary{decorations.shapes,shapes.geometric,calc,positioning}
 \usepackage{pgf} % hỗ trợ phép tính toán học và vẽ hình	
 \usetikzlibrary{shapes.geometric, arrows}
-\usepackage{pgfplots}
-\renewcommand{\baselinestretch}{1.2}
-\usepackage{tabularx}
-\usepackage{makecell}
-\usepackage{titlesec}
-\usepackage{titletoc}
-\usepackage{colortbl}
+\usepackage[newparttoc]{titlesec}	% định dạng tiêu đề cho các section
+\usepackage{titletoc}	% định dạng mục lục 
+\usepackage{pdfpages}	% chèn trang từ file pdf 
+\usepackage{lipsum}		% văn bản định dạng trang in 
+\usepackage{xparse} % hỗ trợ định nghĩa options cho lệnh tự tạo
+\usepackage{xcolor,color,colortbl}  % các gói xử lý màu 
+\usepackage{xpatch}	% hỗ trợ định nghĩa lệnh tự tạo 
+\usepackage{tkz-tab} % xử lý hình với tikz 
+\usepackage{fancybox} % tạo các hộp 
+\usepackage{graphicx} % Chèn hình, vẽ hình đơn giản 
+\usepackage{indentfirst} % viết hoa đoạn đầu của mỗi mục 
+\usepackage{fancyhdr} % tạo header và footer 
+\usepackage{longtable} % bảng dài nhiều trang 
+\usepackage[T1,T5]{fontenc} % font encoding
+\usepackage{cprotect}% cho phép marco hủy tác dụng chống verbatim trong các môi trường tiêu đề 
+\usepackage{multicol} % môi trường nhiều cột
+\usepackage{environ} % hỗ trợ định nghĩa môi trường
+\usepackage{tasks} % hỗ trợ list dạng task 
+\usepackage{calc} % hỗ trợ tính toán & đo kích thước văn bản 
+\usepackage{multido} % thực hiện lệnh lặp lại 
+\usepackage{tabularx} % hỗ trợ bảng 
+\usepackage{needspace} % hỗ trợ định dạng khối dòng văn bản 
+\usepackage{capt-of}
+\usepackage{physics,bm}
+\usepackage[outline]{contour} % glow around text
+\usetikzlibrary{angles,quotes} % for pic (angle labels)
+\usepackage{xcolor}
 \usepackage{tkz-euclide}
+\usetikzlibrary{shapes.arrows}
+\usepackage{circuitikz}
+\usepackage{pgfplots}
+\usepackage{makecell}
 \usepackage{lscape}
-\usepackage{multido}
+\usepackage{enumitem}
+\setlist[itemize,enumerate,description]{noitemsep, {nosep}}
+\usepackage{hyperref}
+% định dạng tham chiếu và tham chiếu chéo 
+\hypersetup{hidelinks,colorlinks=false,breaklinks=true,bookmarksopen=true}
 % lệnh siunit 
 \newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
 \newcommand{\outfooter}{
@@ -49,12 +78,10 @@
 	a4paper	% khổ giấy A4
 	,total={180mm,260mm} % kích thước văn bản A4 170mmx247mm
 	,left=15mm % canh lề trái
-	,top=20mm % canh lề trên
+	,top=10mm % canh lề trên
+	,bottom=20mm
 	,footskip=1.0cm % khoảng cách từ văn bản đến footer
 }
-% --- line spacing -- choose 1 in 2 choices 
-\onehalfspacing			% cách dòng đơn
-%\doublespacing			% cách dòng đôi  
 	% ----- định dạng Header và footer
 		% --- 
 	\newlength\sectitleindent
@@ -65,7 +92,7 @@
 \pagestyle{fancy} 
 \fancyhf{}
 \renewcommand{\headrulewidth}
-{1pt} % độ dày đường kẻ ở header 
+{0pt} % độ dày đường kẻ ở header 
 \newcommand*\cirpage[1] % tạo hình tròn quanh số trang 
 {\tikz[baseline=(char.base)]
 	{
@@ -81,7 +108,7 @@
 }
 \fancyhead[LO,RE] % footer - lề trong 
 {	
-\small \outheader \hfill \namhoc% tên tài liệu lấy từ phần khai báo đầu file 
+%\small \outheader \hfill \namhoc% tên tài liệu lấy từ phần khai báo đầu file 
 }  
 \fancyfoot[LO,RE] % footer - lề trong 
 {	
@@ -184,43 +211,177 @@
 	\end{enumerate}
 	
 }
-%======== MAIN TABLE OF CONTENTS
+\definecolor{obcolor}{HTML}{aa98ff}
+% ========== MAIN TABLE OF CONTENTS =========
 \contentsmargin{1.5em}	
 \titlecontents{part}
 [3cm] % Left indentation
-{
+{\addvspace{20pt}
+	\begin{tikzpicture}[remember picture, overlay]%
+		\draw[fill=obcolor!70!black,draw=black] (-2.4,-.15) rectangle (0.5,.5);%
+		\pgftext[left,x=-2.2cm,y=0.15cm]{\color{white}\sc\bfseries \textbf{CHƯƠNG}  \thecontentslabel};%
+	\end{tikzpicture}\color{black!60}\large\bfseries\hspace*{0.6cm}
 } % Spacing and font options for parts
 {}
 {}
 {}
 [\addvspace{5pt}\color{black}]
-
+% My chapter text styling 
+\titlecontents{mychapter}
+[1.25em]
+{}
+{ Bài \thecontentslabel.\enspace}
+{}
+{\titlerule*[0.75pc]{.}\contentspage} %bad formatting, but only here to produce a content line in ToC	
 % Chapter text styling
 \titlecontents{chapter}
 [1.25cm] % Left indentation
 {} % Spacing and font options for chapters
 {} % Formatting of numbered sections of this type
 {} % Formatting of numberless sections of this type
-{} % Formatting of the filler to the right of the heading and the page number
+{\nolinebreak\;\titlerule*[.75pc]{.}\;\contentspage} % Formatting of the filler to the right of the heading and the page number
+
+\makeatletter
+% that a section has Level 2, rather than Level 1.
+\renewcommand{\l@section}{\@dottedtocline{2}{1.5em}{2.3em}}
+\makeatother
+\setcounter{tocdepth}{1}
+% ========== TITLE FORMATTING
+% --- draw circle around chapter number 
+\newcommand*{\circhap}[1]{
+	\tikz[baseline=(char.base)] % tạo ô bao quanh chữ
+	{
+		\node[
+		shape=circle % hình tròn
+		,fill=gray!50 % màu nền 
+		,inner sep=5pt % khoảng cách chữ và hình 
+		] 
+		(char)
+		{#1};
+	}
+}	
+% ---  
+\AtBeginDocument{
+	% --- PART format (level -1)
+	\titleclass{\part}{top}
+	\renewcommand{\thepart}{\arabic{part}}
+	\titleformat{\part}
+	[display]
+	{\bfseries\Huge}
+	{\filleft \LARGE CHƯƠNG  \Huge\thepart}
+	{4ex}
+	{\titlerule
+		%\pagecolor{green}	 
+		\vspace{2ex}%
+		\filcenter
+	}
+	[\vspace{2ex}%
+	\titlerule
+	%\pagecolor{white}
+	]
+	
+	% --- MYCHAPTER format (level 0) 
+	\titleformat{\chapter}
+	[display]
+	{\bfseries\huge}
+	{\filleft \LARGE\itshape Bài \Huge\thechapter}
+	{4ex}
+	{%\titlerule
+		\vspace{2ex}%
+		\filcenter}
+	[\vspace{2ex}%
+	%\titlerule
+	]
+	
+	% --- CHAPTER format (level 1)
+	\titleformat{\chapter}
+	[display]
+	{\normalfont\large\bfseries\centering}
+	{}
+	{-1cm} % giảm khoảng cách của chapter đến đầu trang
+	{\Large}	
+		
+}
 \newcommand{\Pointilles}[1][3]{%
 	\multido{}{#1}{\makebox[\linewidth]{\dotfill}\\[\parskip]}
 }
-%\onehalfspacing
-\renewcommand{\baselinestretch}{1.25} 
+\renewcommand{\baselinestretch}{1.3} 
 \begin{document}
-		% ---------	Table of Contents (ToC) ---------
-%	\tableofcontents
-%\input{data/DANHGIATHUCHANH}\newpage
-%\input{data/BAOCAOTN1}\newpage
+	% ===================== BÌA=====================
+		\begin{titlepage}
+		\begin{tikzpicture}[remember picture,overlay,inner sep=0,outer sep=0]
+			\draw[blue!70!black,line width=4pt] ([xshift=-1.5cm,yshift=-2cm]current page.north east) coordinate (A)--([xshift=1.5cm,yshift=-2cm]current page.north west) coordinate(B)--([xshift=1.5cm,yshift=2cm]current page.south west) coordinate (C)--([xshift=-1.5cm,yshift=2cm]current page.south east) coordinate(D)--cycle;
+			
+			\draw ([yshift=0.5cm,xshift=-0.5cm]A)-- ([yshift=0.5cm,xshift=0.5cm]B)--
+			([yshift=-0.5cm,xshift=0.5cm]B) --([yshift=-0.5cm,xshift=-0.5cm]B)--([yshift=0.5cm,xshift=-0.5cm]C)--([yshift=0.5cm,xshift=0.5cm]C)--([yshift=-0.5cm,xshift=0.5cm]C)-- ([yshift=-0.5cm,xshift=-0.5cm]D)--([yshift=0.5cm,xshift=-0.5cm]D)--([yshift=0.5cm,xshift=0.5cm]D)--([yshift=-0.5cm,xshift=0.5cm]A)--([yshift=-0.5cm,xshift=-0.5cm]A)--([yshift=0.5cm,xshift=-0.5cm]A);
+			
+			
+			\draw ([yshift=-0.3cm,xshift=0.3cm]A)-- ([yshift=-0.3cm,xshift=-0.3cm]B)--
+			([yshift=0.3cm,xshift=-0.3cm]B) --([yshift=0.3cm,xshift=0.3cm]B)--([yshift=-0.3cm,xshift=0.3cm]C)--([yshift=-0.3cm,xshift=-0.3cm]C)--([yshift=0.3cm,xshift=-0.3cm]C)-- ([yshift=0.3cm,xshift=0.3cm]D)--([yshift=-0.3cm,xshift=0.3cm]D)--([yshift=-0.3cm,xshift=-0.3cm]D)--([yshift=0.3cm,xshift=-0.3cm]A)--([yshift=0.3cm,xshift=0.3cm]A)--([yshift=-0.3cm,xshift=0.3cm]A);
+			
+		\end{tikzpicture}
+		\begin{center}
+			\vspace{1cm}
+			\fontsize{13pt}{17pt}\selectfont 
+			SỞ GIÁO DỤC VÀ ĐÀO TẠO TỈNH BÌNH DƯƠNG\\
+			\textbf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}\\
+			\noindent\rule{4cm}{0.4pt}\\
+			\vspace{7pt}
+			\textbf{TỔ VẬT LÝ}
+		\end{center}
+		\vspace{10pt}
+		\begin{center}
+			\includegraphics[scale=0.7]{figs/logo}
+		\end{center}
+\vspace{1cm}
+		\begin{center}
+			\fontsize{20pt}{17pt}\selectfont 
+			\textbf{\textrm{KẾ HOẠCH BÀI DẠY}}\\
+			\fontsize{16pt}{17pt}\selectfont 
+			\textbf{\textit{(Học kì I)}}
+		\end{center}
+		
+		\vspace{1cm}
+		\begin{center}
+			\fontsize{13pt}{17pt}\selectfont 
+			\begin{tabular}{L{5cm}L{4.5cm}}
+				\textbf{Bộ môn:}&\textbf{Vật lý}\\
+				\textbf{Khối lớp:}&\textbf{10}\\
+				\textbf{Giáo viên giảng dạy:}& \textbf{Lương Hoàng Sang}\\
+			\end{tabular}
+		\end{center}
+		
+		\vspace{4cm}
+		
+		\begin{center}
+			\fontsize{13pt}{17pt}\selectfont 
+			\textbf{Năm học 2024 - 2025}
+		\end{center}
+	\end{titlepage}
+	\newpage
+	% ---------	Table of Contents (ToC) ---------
+\tableofcontents
+\cleardoublepage
+% ------------- end of ToC ----------------
+% --------- Main Contents ------------------
+
+%\newpage\input{data/BAOCAOTN1}
+%\newpage\input{data/DANHGIATHUCHANH}
 %\input{data/BAOCAOTN2}\newpage
 %\input{data/BAOCAOTN3}\newpage
 %\input{data/BAOCAOTN2}
-%\input{data/G10-BAI1}
-%\newpage\input{data/G10-BAI2}
-%\newpage\input{data/G10-BAI3}
+\setcounter{part}{0}
+\pagestyle{fancy}
+\part{MỞ ĐẦU}
+\input{data/G10-BAI1}
+\newpage\input{data/G10-BAI2}
+\newpage\input{data/G10-BAI3}
+\part{MÔ TẢ CHUYỂN ĐỘNG}
 \newpage\input{data/G10-BAI4}
 \newpage\input{data/G10-BAI5}
-%\newpage\input{data/G10-BAI6}
-%\newpage\input{data/G10-BAI7}
+\newpage\input{data/G10-BAI6}
+\part{CHUYỂN ĐỘNG BIẾN ĐỔI}
+\newpage\input{data/G10-BAI7}
+\newpage\input{data/G10-BAI8}
 %\newpage\input{data/G10-BAI13}
 \end{document}
