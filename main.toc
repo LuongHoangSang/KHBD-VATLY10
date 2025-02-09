@@ -160,57 +160,68 @@
 \contentsline {subsection}{\numberline {A}TIẾN TRÌNH}{119}{subsection.11.3.1}%
 \contentsline {subsection}{\numberline {B}CÁC HOẠT ĐỘNG HỌC}{120}{subsection.11.3.2}%
 \contentsline {subsubsection}{\numberline {1}Tìm hiểu về lực hấp dẫn và trọng lực }{120}{subsubsection.11.3.2.1}%
-\contentsline {subsubsection}{\numberline {2}Tìm hiểu về lực ma sát trượt. }{121}{subsubsection.11.3.2.2}%
+\contentsline {subsubsection}{\numberline {2}Tìm hiểu về lực ma sát trượt. }{122}{subsubsection.11.3.2.2}%
 \contentsline {subsubsection}{\numberline {3}Tìm hiểu về lực ma sát nghỉ và ma sát lăn. }{124}{subsubsection.11.3.2.3}%
-\contentsline {subsubsection}{\numberline {4}Vận dụng biểu thức xác định độ lớn lực ma sát trượt để giải các bài toán cơ bản. }{125}{subsubsection.11.3.2.4}%
+\contentsline {subsubsection}{\numberline {4}Vận dụng biểu thức xác định độ lớn lực ma sát trượt để giải các bài toán cơ bản. }{126}{subsubsection.11.3.2.4}%
 \contentsline {subsubsection}{\numberline {5}Tìm hiểu về lực căng dây. }{126}{subsubsection.11.3.2.5}%
-\contentsline {subsubsection}{\numberline {6}Tìm hiểu về lực đẩy Archimedes. }{127}{subsubsection.11.3.2.6}%
-\contentsline {section}{\numberline {IV}HỒ SƠ DẠY HỌC}{129}{section.11.4}%
-\contentsline {subsection}{\numberline {A}NỘI DUNG DẠY HỌC}{129}{subsection.11.4.1}%
-\contentsline {subsection}{\numberline {B}CÁC VÍ DỤ MINH HỌA}{131}{subsection.11.4.2}%
-\contentsline {section}{\numberline {V}BÀI TẬP TRẮC NGHIỆM}{133}{section.11.5}%
-\contentsline {section}{\numberline {VI}BÀI TẬP TỰ LUẬN}{134}{section.11.6}%
-\contentsline {part}{\numberline {0}CÁC ĐỀ ÔN TẬP}{137}{part.0}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{138}{section.11.1}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{141}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{141}{section.11.3}%
-\contentsline {section}{\numberline {I}}{144}{section*.2}%
-\contentsline {section}{\numberline {II}}{144}{section.11.2}%
-\contentsline {section}{\numberline {III}}{144}{section.11.3}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{145}{section*.3}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{147}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{149}{section.11.3}%
-\contentsline {section}{\numberline {I}}{151}{section*.4}%
-\contentsline {section}{\numberline {II}}{151}{section.11.2}%
-\contentsline {section}{\numberline {III}}{151}{section.11.3}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{152}{section*.5}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{154}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{155}{section.11.3}%
-\contentsline {section}{\numberline {I}}{157}{section*.6}%
-\contentsline {section}{\numberline {II}}{157}{section.11.2}%
-\contentsline {section}{\numberline {III}}{157}{section.11.3}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{158}{section*.7}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{160}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{161}{section.11.3}%
-\contentsline {section}{\numberline {I}}{163}{section*.8}%
-\contentsline {section}{\numberline {II}}{163}{section.11.2}%
-\contentsline {section}{\numberline {III}}{163}{section.11.3}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{164}{section*.9}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{166}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{167}{section.11.3}%
-\contentsline {section}{\numberline {I}}{169}{section*.10}%
-\contentsline {section}{\numberline {II}}{169}{section.11.2}%
-\contentsline {section}{\numberline {III}}{169}{section.11.3}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{170}{section*.11}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{172}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{173}{section.11.3}%
-\contentsline {section}{\numberline {I}}{175}{section*.12}%
-\contentsline {section}{\numberline {II}}{175}{section.11.2}%
-\contentsline {section}{\numberline {III}}{175}{section.11.3}%
-\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{176}{section*.13}%
-\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{178}{section.11.2}%
-\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{179}{section.11.3}%
-\contentsline {section}{\numberline {I}}{181}{section*.14}%
-\contentsline {section}{\numberline {II}}{181}{section.11.2}%
-\contentsline {section}{\numberline {III}}{181}{section.11.3}%
+\contentsline {subsubsection}{\numberline {6}Tìm hiểu về lực đẩy Archimedes. }{128}{subsubsection.11.3.2.6}%
+\contentsline {subsubsection}{\numberline {7} Luyện tập. }{129}{subsubsection.11.3.2.7}%
+\contentsline {section}{\numberline {IV}HỒ SƠ DẠY HỌC}{130}{section.11.4}%
+\contentsline {subsection}{\numberline {A}NỘI DUNG DẠY HỌC}{130}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {B}CÁC VÍ DỤ MINH HỌA}{132}{subsection.11.4.2}%
+\contentsline {chapter}{\numberline {12}Bài 12. Chuyển động ném}{134}{chapter.12}%
+\contentsline {section}{\numberline {I}MỤC TIÊU DẠY HỌC}{134}{section.12.1}%
+\contentsline {section}{\numberline {II}THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU}{134}{section.12.2}%
+\contentsline {section}{\numberline {III}TIẾN TRÌNH DẠY HỌC}{134}{section.12.3}%
+\contentsline {subsection}{\numberline {A}CÁC HOẠT ĐỘNG HỌC}{135}{subsection.12.3.1}%
+\contentsline {subsubsection}{\numberline {1}Mô tả chuyển động của vật ném ngang. }{135}{subsubsection.12.3.1.1}%
+\contentsline {subsubsection}{\numberline {2}Giải thích chuyển động của vật ném ngang. }{136}{subsubsection.12.3.1.2}%
+\contentsline {subsubsection}{\numberline {3}Thực hiện dự án nghiên cứu chuyển động của vật bị ném. }{137}{subsubsection.12.3.1.3}%
+\contentsline {subsubsection}{\numberline {4} Luyện tập. }{138}{subsubsection.12.3.1.4}%
+\contentsline {section}{\numberline {IV}HỒ SƠ DẠY HỌC}{138}{section.12.4}%
+\contentsline {subsection}{\numberline {A}NỘI DUNG DẠY HỌC}{138}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {B}BÀI TẬP}{140}{subsection.12.4.2}%
+\contentsline {part}{\numberline {0}CÁC ĐỀ ÔN TẬP}{144}{part.0}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{145}{section.12.1}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{148}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{148}{section.12.3}%
+\contentsline {section}{\numberline {I}}{151}{section*.2}%
+\contentsline {section}{\numberline {II}}{151}{section.12.2}%
+\contentsline {section}{\numberline {III}}{151}{section.12.3}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{152}{section*.3}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{154}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{156}{section.12.3}%
+\contentsline {section}{\numberline {I}}{158}{section*.4}%
+\contentsline {section}{\numberline {II}}{158}{section.12.2}%
+\contentsline {section}{\numberline {III}}{158}{section.12.3}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{159}{section*.5}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{161}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{162}{section.12.3}%
+\contentsline {section}{\numberline {I}}{164}{section*.6}%
+\contentsline {section}{\numberline {II}}{164}{section.12.2}%
+\contentsline {section}{\numberline {III}}{164}{section.12.3}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{165}{section*.7}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{167}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{168}{section.12.3}%
+\contentsline {section}{\numberline {I}}{170}{section*.8}%
+\contentsline {section}{\numberline {II}}{170}{section.12.2}%
+\contentsline {section}{\numberline {III}}{170}{section.12.3}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{171}{section*.9}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{173}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{174}{section.12.3}%
+\contentsline {section}{\numberline {I}}{176}{section*.10}%
+\contentsline {section}{\numberline {II}}{176}{section.12.2}%
+\contentsline {section}{\numberline {III}}{176}{section.12.3}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{177}{section*.11}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{179}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{180}{section.12.3}%
+\contentsline {section}{\numberline {I}}{182}{section*.12}%
+\contentsline {section}{\numberline {II}}{182}{section.12.2}%
+\contentsline {section}{\numberline {III}}{182}{section.12.3}%
+\contentsline {section}{\numberline {I}Câu trắc nghiệm nhiều phương án lựa chọn}{183}{section*.13}%
+\contentsline {section}{\numberline {II}Câu trắc nghiệm đúng/sai}{185}{section.12.2}%
+\contentsline {section}{\numberline {III}Câu trắc nghiệm trả lời ngắn}{186}{section.12.3}%
+\contentsline {section}{\numberline {I}}{188}{section*.14}%
+\contentsline {section}{\numberline {II}}{188}{section.12.2}%
+\contentsline {section}{\numberline {III}}{188}{section.12.3}%
 \contentsfinish 

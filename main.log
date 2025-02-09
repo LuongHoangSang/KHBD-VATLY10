@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  19 JAN 2025 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  20 JAN 2025 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2125,7 +2125,7 @@ Package hyperref Info: Link coloring OFF on input line 309.
 \@outlinefile=\write9
 \openout9 = `main.out'.
 
-<figs/logo.png, id=464, 256.96pt x 197.73875pt>
+<figs/logo.png, id=476, 256.96pt x 197.73875pt>
 File: figs/logo.png Graphic file (type png)
 <use figs/logo.png>
 Package pdftex.def Info: figs/logo.png  used on input line 334.
@@ -2270,9 +2270,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2291,7 +2288,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
@@ -2313,10 +2310,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-<figs/BAI1-1.jpg, id=576, 537.207pt x 458.9145pt>
+<figs/BAI1-1.jpg, id=590, 537.207pt x 458.9145pt>
 File: figs/BAI1-1.jpg Graphic file (type jpg)
 <use figs/BAI1-1.jpg>
-Package pdftex.def Info: figs/BAI1-1.jpg  used on input line 229.
+Package pdftex.def Info: figs/BAI1-1.jpg  used on input line 235.
 (pdftex.def)             Requested size: 460.9315pt x 393.76245pt.
 )
 
@@ -2363,12 +2360,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
-<figs/BAI2-1.jpg, id=614, 723.30225pt x 305.34074pt>
+<figs/BAI2-1.jpg, id=628, 723.30225pt x 305.34074pt>
 File: figs/BAI2-1.jpg Graphic file (type jpg)
 <use figs/BAI2-1.jpg>
 Package pdftex.def Info: figs/BAI2-1.jpg  used on input line 150.
 (pdftex.def)             Requested size: 386.95894pt x 163.358pt.
-<figs/BAI2-2.jpg, id=615, 531.78674pt x 287.8755pt>
+<figs/BAI2-2.jpg, id=629, 531.78674pt x 287.8755pt>
 File: figs/BAI2-2.jpg Graphic file (type jpg)
 <use figs/BAI2-2.jpg>
 Package pdftex.def Info: figs/BAI2-2.jpg  used on input line 160.
@@ -2417,9 +2414,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-Underfull \vbox (badness 2310) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2447,7 +2441,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
@@ -2460,7 +2454,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
@@ -2495,7 +2489,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Overfull \hbox (2.3998pt too wide) in alignment at lines 382--392
+Overfull \hbox (2.3998pt too wide) in alignment at lines 388--398
  [] [] [] [] [] 
  []
 
@@ -2508,13 +2502,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
-<figs/BAI3-1.jpg, id=718, 1027.4385pt x 271.0125pt>
+<figs/BAI3-1.jpg, id=732, 1027.4385pt x 271.0125pt>
 File: figs/BAI3-1.jpg Graphic file (type jpg)
 <use figs/BAI3-1.jpg>
-Package pdftex.def Info: figs/BAI3-1.jpg  used on input line 443.
+Package pdftex.def Info: figs/BAI3-1.jpg  used on input line 449.
 (pdftex.def)             Requested size: 338.5863pt x 89.31033pt.
 Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
-e 452.
+e 458.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2575,7 +2569,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-<figs/BAI4-1.png, id=753, 849.4134pt x 245.718pt>
+<figs/BAI4-1.png, id=767, 849.4134pt x 245.718pt>
 File: figs/BAI4-1.png Graphic file (type png)
 <use figs/BAI4-1.png>
 Package pdftex.def Info: figs/BAI4-1.png  used on input line 108.
@@ -2655,12 +2649,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
 
-<figs/../figs/G10-BAI4-1.jpg, id=800, 266.9975pt x 99.87312pt>
+<figs/../figs/G10-BAI4-1.jpg, id=814, 266.9975pt x 99.87312pt>
 File: figs/../figs/G10-BAI4-1.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BAI4-1.jpg>
 Package pdftex.def Info: figs/../figs/G10-BAI4-1.jpg  used on input line 392.
 (pdftex.def)             Requested size: 240.2955pt x 89.88498pt.
-<figs/../figs/G10-BAI4-2.jpg, id=801, 479.29062pt x 171.64125pt>
+<figs/../figs/G10-BAI4-2.jpg, id=815, 479.29062pt x 171.64125pt>
 File: figs/../figs/G10-BAI4-2.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BAI4-2.jpg>
 Package pdftex.def Info: figs/../figs/G10-BAI4-2.jpg  used on input line 396.
@@ -2725,7 +2719,7 @@ en already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.561 	\end{center}
                    ]
-<figs/VN10-2022-PH-TP004-P-2.png, id=825, 268.6035pt x 81.30376pt>
+<figs/VN10-2022-PH-TP004-P-2.png, id=839, 268.6035pt x 81.30376pt>
 File: figs/VN10-2022-PH-TP004-P-2.png Graphic file (type png)
 <use figs/VN10-2022-PH-TP004-P-2.png>
 Package pdftex.def Info: figs/VN10-2022-PH-TP004-P-2.png  used on input line 64
@@ -2741,7 +2735,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38 <./figs/VN10-2022-PH-TP004-P-2.png>]
-<figs/VN10-2022-PH-TP004-P-3.png, id=835, 398.6895pt x 372.1905pt>
+<figs/VN10-2022-PH-TP004-P-3.png, id=849, 398.6895pt x 372.1905pt>
 File: figs/VN10-2022-PH-TP004-P-3.png Graphic file (type png)
 <use figs/VN10-2022-PH-TP004-P-3.png>
 Package pdftex.def Info: figs/VN10-2022-PH-TP004-P-3.png  used on input line 67
@@ -2752,7 +2746,7 @@ File: figs/VN10-2022-PH-TP004-P-3.png Graphic file (type png)
 Package pdftex.def Info: figs/VN10-2022-PH-TP004-P-3.png  used on input line 67
 8.
 (pdftex.def)             Requested size: 131.95311pt x 123.18103pt.
-<figs/VN10-2023-PH-TP005-P-4.png, id=836, 223.43475pt x 172.2435pt>
+<figs/VN10-2023-PH-TP005-P-4.png, id=850, 223.43475pt x 172.2435pt>
 File: figs/VN10-2023-PH-TP005-P-4.png Graphic file (type png)
 <use figs/VN10-2023-PH-TP005-P-4.png>
 Package pdftex.def Info: figs/VN10-2023-PH-TP005-P-4.png  used on input line 70
@@ -2768,7 +2762,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39 <./figs/VN10-2022-PH-TP004-P-3.png> <./figs/VN10-2023-PH-TP005-P-4.png>]
-<figs/VN10-2022-PH-TP004-1-P-1.jpg, id=849, 375.20175pt x 65.043pt>
+<figs/VN10-2022-PH-TP004-1-P-1.jpg, id=863, 375.20175pt x 65.043pt>
 File: figs/VN10-2022-PH-TP004-1-P-1.jpg Graphic file (type jpg)
 <use figs/VN10-2022-PH-TP004-1-P-1.jpg>
 Package pdftex.def Info: figs/VN10-2022-PH-TP004-1-P-1.jpg  used on input line 
@@ -2838,17 +2832,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [44]
-<figs/G10-BAI5-1.jpg, id=892, 559.33969pt x 295.1025pt>
+<figs/G10-BAI5-1.jpg, id=906, 559.33969pt x 295.1025pt>
 File: figs/G10-BAI5-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI5-1.jpg>
 Package pdftex.def Info: figs/G10-BAI5-1.jpg  used on input line 97.
 (pdftex.def)             Requested size: 193.10701pt x 101.8825pt.
-<figs/G10-BAI5-2.jpg, id=893, 420.82219pt x 315.42844pt>
+<figs/G10-BAI5-2.jpg, id=907, 420.82219pt x 315.42844pt>
 File: figs/G10-BAI5-2.jpg Graphic file (type jpg)
 <use figs/G10-BAI5-2.jpg>
 Package pdftex.def Info: figs/G10-BAI5-2.jpg  used on input line 97.
 (pdftex.def)             Requested size: 193.10701pt x 144.74266pt.
-<figs/G10-BAI5-3.jpg, id=894, 451.6875pt x 338.76563pt>
+<figs/G10-BAI5-3.jpg, id=908, 451.6875pt x 338.76563pt>
 File: figs/G10-BAI5-3.jpg Graphic file (type jpg)
 <use figs/G10-BAI5-3.jpg>
 Package pdftex.def Info: figs/G10-BAI5-3.jpg  used on input line 97.
@@ -2867,12 +2861,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--128
 
  []
 
-<figs/G10-BAI5-4.jpg, id=900, 882.57pt x 159.87pt>
+<figs/G10-BAI5-4.jpg, id=915, 882.57pt x 159.87pt>
 File: figs/G10-BAI5-4.jpg Graphic file (type jpg)
 <use figs/G10-BAI5-4.jpg>
 Package pdftex.def Info: figs/G10-BAI5-4.jpg  used on input line 128.
 (pdftex.def)             Requested size: 337.94095pt x 61.2147pt.
-<figs/G10-BAI5-5.jpg, id=901, 882.6576pt x 314.6154pt>
+<figs/G10-BAI5-5.jpg, id=916, 882.6576pt x 314.6154pt>
 File: figs/G10-BAI5-5.jpg Graphic file (type jpg)
 <use figs/G10-BAI5-5.jpg>
 Package pdftex.def Info: figs/G10-BAI5-5.jpg  used on input line 128.
@@ -3062,7 +3056,7 @@ en already used, duplicate ignored
                    \relax 
 l.441 	M
         ột người chèo thuyền qua một con sông rộng $\SI{400}{\m...
-<figs/BAI5-1.png, id=946, 199.34476pt x 112.0185pt>
+<figs/BAI5-1.png, id=960, 199.34476pt x 112.0185pt>
 File: figs/BAI5-1.png Graphic file (type png)
 <use figs/BAI5-1.png>
 Package pdftex.def Info: figs/BAI5-1.png  used on input line 443.
@@ -3088,7 +3082,7 @@ en already used, duplicate ignored
                    \relax 
 l.468 	M
         ột ca nô chạy ngang qua một dòng sông, xuất phát từ A ...
-<figs/BAI5-2.jpg, id=947, 242.9075pt x 122.4575pt>
+<figs/BAI5-2.jpg, id=961, 242.9075pt x 122.4575pt>
 File: figs/BAI5-2.jpg Graphic file (type jpg)
 <use figs/BAI5-2.jpg>
 Package pdftex.def Info: figs/BAI5-2.jpg  used on input line 470.
@@ -3143,7 +3137,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
-<figs/G10-BAI6-1.jpg, id=977, 700.6175pt x 236.885pt>
+<figs/G10-BAI6-1.jpg, id=991, 700.6175pt x 236.885pt>
 File: figs/G10-BAI6-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI6-1.jpg>
 Package pdftex.def Info: figs/G10-BAI6-1.jpg  used on input line 83.
@@ -3162,17 +3156,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--141
 
  []
 
-<figs/G10-BAI6-2.jpg, id=986, 830.1414pt x 379.6584pt>
+<figs/G10-BAI6-2.jpg, id=1000, 830.1414pt x 379.6584pt>
 File: figs/G10-BAI6-2.jpg Graphic file (type jpg)
 <use figs/G10-BAI6-2.jpg>
 Package pdftex.def Info: figs/G10-BAI6-2.jpg  used on input line 141.
 (pdftex.def)             Requested size: 290.55383pt x 132.88243pt.
-<figs/G10-BAI6-3.jpg, id=987, 596.4684pt x 239.9364pt>
+<figs/G10-BAI6-3.jpg, id=1001, 596.4684pt x 239.9364pt>
 File: figs/G10-BAI6-3.jpg Graphic file (type jpg)
 <use figs/G10-BAI6-3.jpg>
 Package pdftex.def Info: figs/G10-BAI6-3.jpg  used on input line 141.
 (pdftex.def)             Requested size: 238.58313pt x 95.97285pt.
-<figs/G10-BAI6-4.jpg, id=988, 484.81125pt x 276.28218pt>
+<figs/G10-BAI6-4.jpg, id=1002, 484.81125pt x 276.28218pt>
 File: figs/G10-BAI6-4.jpg Graphic file (type jpg)
 <use figs/G10-BAI6-4.jpg>
 Package pdftex.def Info: figs/G10-BAI6-4.jpg  used on input line 141.
@@ -3190,7 +3184,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--176
 
  []
 
-<figs/G10-BAI6-5.jpg, id=995, 882.29625pt x 405.76593pt>
+<figs/G10-BAI6-5.jpg, id=1009, 882.29625pt x 405.76593pt>
 File: figs/G10-BAI6-5.jpg Graphic file (type jpg)
 <use figs/G10-BAI6-5.jpg>
 Package pdftex.def Info: figs/G10-BAI6-5.jpg  used on input line 176.
@@ -3453,22 +3447,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [73]
-<figs/G10-BAI7-1.jpg, id=1113, 481.8pt x 271.0125pt>
+<figs/G10-BAI7-1.jpg, id=1127, 481.8pt x 271.0125pt>
 File: figs/G10-BAI7-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI7-1.jpg>
 Package pdftex.def Info: figs/G10-BAI7-1.jpg  used on input line 339.
 (pdftex.def)             Requested size: 144.5411pt x 81.30437pt.
-<figs/G10-BAI7-2.jpg, id=1114, 474.27188pt x 248.42813pt>
+<figs/G10-BAI7-2.jpg, id=1128, 474.27188pt x 248.42813pt>
 File: figs/G10-BAI7-2.jpg Graphic file (type jpg)
 <use figs/G10-BAI7-2.jpg>
 Package pdftex.def Info: figs/G10-BAI7-2.jpg  used on input line 339.
 (pdftex.def)             Requested size: 142.28265pt x 74.529pt.
-<figs/G10-BAI7-3.jpg, id=1115, 276.03125pt x 183.68625pt>
+<figs/G10-BAI7-3.jpg, id=1129, 276.03125pt x 183.68625pt>
 File: figs/G10-BAI7-3.jpg Graphic file (type jpg)
 <use figs/G10-BAI7-3.jpg>
 Package pdftex.def Info: figs/G10-BAI7-3.jpg  used on input line 361.
 (pdftex.def)             Requested size: 138.01527pt x 91.84288pt.
-<figs/G10-BAI7-4.jpg, id=1116, 1284.8pt x 963.6pt>
+<figs/G10-BAI7-4.jpg, id=1130, 1284.8pt x 963.6pt>
 File: figs/G10-BAI7-4.jpg Graphic file (type jpg)
 <use figs/G10-BAI7-4.jpg>
 Package pdftex.def Info: figs/G10-BAI7-4.jpg  used on input line 361.
@@ -3484,7 +3478,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [74 <./figs/G10-BAI7-1.jpg> <./figs/G10-BAI7-2.jpg> <./figs/G10-BAI7-3.jpg> <./
 figs/G10-BAI7-4.jpg>]
-<figs/../figs/BAI7-1.png, id=1122, 465.53925pt x 258.9675pt>
+<figs/../figs/BAI7-1.png, id=1136, 465.53925pt x 258.9675pt>
 File: figs/../figs/BAI7-1.png Graphic file (type png)
 <use figs/../figs/BAI7-1.png>
 Package pdftex.def Info: figs/../figs/BAI7-1.png  used on input line 408.
@@ -3698,7 +3692,7 @@ en already used, duplicate ignored
                    \relax 
 l.879 	Q
         uan sát đồ thị $\left(v-t\right)$ mô tả chuyển động th...
-<figs/BAI7-1.png, id=1147, 465.53925pt x 258.9675pt>
+<figs/BAI7-1.png, id=1162, 465.53925pt x 258.9675pt>
 File: figs/BAI7-1.png Graphic file (type png)
 <use figs/BAI7-1.png>
 Package pdftex.def Info: figs/BAI7-1.png  used on input line 881.
@@ -3746,7 +3740,7 @@ en already used, duplicate ignored
                    \relax 
 l.945 	M
         ột ô tô đang đi trên đường thẳng với tốc độ $v$ ...
-<figs/BAI7-2.jpg, id=1160, 671.6292pt x 108.8868pt>
+<figs/BAI7-2.jpg, id=1174, 671.6292pt x 108.8868pt>
 File: figs/BAI7-2.jpg Graphic file (type jpg)
 <use figs/BAI7-2.jpg>
 Package pdftex.def Info: figs/BAI7-2.jpg  used on input line 947.
@@ -3831,7 +3825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--132
 
  []
 
-<figs/G10-BAI8-1.jpg, id=1199, 248.93pt x 357.335pt>
+<figs/G10-BAI8-1.jpg, id=1213, 248.93pt x 357.335pt>
 File: figs/G10-BAI8-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI8-1.jpg>
 Package pdftex.def Info: figs/G10-BAI8-1.jpg  used on input line 132.
@@ -4077,12 +4071,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [96]
-<figs/G10-BAI9-1.jpg, id=1269, 917.3472pt x 349.7868pt>
+<figs/G10-BAI9-1.jpg, id=1283, 917.3472pt x 349.7868pt>
 File: figs/G10-BAI9-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-1.jpg>
 Package pdftex.def Info: figs/G10-BAI9-1.jpg  used on input line 100.
 (pdftex.def)             Requested size: 366.93237pt x 139.91223pt.
-<figs/G10-BAI9-2.jpg, id=1270, 923.6106pt x 357.0138pt>
+<figs/G10-BAI9-2.jpg, id=1284, 923.6106pt x 357.0138pt>
 File: figs/G10-BAI9-2.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-2.jpg>
 Package pdftex.def Info: figs/G10-BAI9-2.jpg  used on input line 100.
@@ -4101,12 +4095,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
-<figs/G10-BAI9-3.jpg, id=1281, 505.89pt x 219.7008pt>
+<figs/G10-BAI9-3.jpg, id=1295, 505.89pt x 219.7008pt>
 File: figs/G10-BAI9-3.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-3.jpg>
 Package pdftex.def Info: figs/G10-BAI9-3.jpg  used on input line 146.
 (pdftex.def)             Requested size: 252.94437pt x 109.85013pt.
-<figs/G10-BAI9-4.jpg, id=1282, 956.373pt x 360.8682pt>
+<figs/G10-BAI9-4.jpg, id=1296, 956.373pt x 360.8682pt>
 File: figs/G10-BAI9-4.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-4.jpg>
 Package pdftex.def Info: figs/G10-BAI9-4.jpg  used on input line 146.
@@ -4129,7 +4123,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [98 <./figs/G10-BAI9-3.jpg>]
-<figs/G10-BAI9-5.jpg, id=1291, 143.03438pt x 194.22563pt>
+<figs/G10-BAI9-5.jpg, id=1305, 143.03438pt x 194.22563pt>
 File: figs/G10-BAI9-5.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-5.jpg>
 Package pdftex.def Info: figs/G10-BAI9-5.jpg  used on input line 146.
@@ -4144,7 +4138,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [99 <./figs/G10-BAI9-4.jpg> <./figs/G10-BAI9-5.jpg>]
-<figs/G10-BAI9-6.jpg, id=1296, 835.923pt x 189.3474pt>
+<figs/G10-BAI9-6.jpg, id=1310, 835.923pt x 189.3474pt>
 File: figs/G10-BAI9-6.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-6.jpg>
 Package pdftex.def Info: figs/G10-BAI9-6.jpg  used on input line 185.
@@ -4159,17 +4153,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [100 <./figs/G10-BAI9-6.jpg>]
-<figs/G10-BAI9-7.jpg, id=1309, 551.661pt x 418.2024pt>
+<figs/G10-BAI9-7.jpg, id=1323, 551.661pt x 418.2024pt>
 File: figs/G10-BAI9-7.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-7.jpg>
 Package pdftex.def Info: figs/G10-BAI9-7.jpg  used on input line 214.
 (pdftex.def)             Requested size: 275.82982pt x 209.10068pt.
-<figs/G10-BAI9-8.jpg, id=1310, 548.7702pt x 372.9132pt>
+<figs/G10-BAI9-8.jpg, id=1324, 548.7702pt x 372.9132pt>
 File: figs/G10-BAI9-8.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-8.jpg>
 Package pdftex.def Info: figs/G10-BAI9-8.jpg  used on input line 214.
 (pdftex.def)             Requested size: 274.38443pt x 186.45613pt.
-<figs/G10-BAI9-9.jpg, id=1311, 446.6286pt x 357.9774pt>
+<figs/G10-BAI9-9.jpg, id=1325, 446.6286pt x 357.9774pt>
 File: figs/G10-BAI9-9.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-9.jpg>
 Package pdftex.def Info: figs/G10-BAI9-9.jpg  used on input line 214.
@@ -4191,7 +4185,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--270
 
  []
 
-<figs/G10-BAI9-10.jpg, id=1320, 345.29pt x 230.36063pt>
+<figs/G10-BAI9-10.jpg, id=1334, 345.29pt x 230.36063pt>
 File: figs/G10-BAI9-10.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-10.jpg>
 Package pdftex.def Info: figs/G10-BAI9-10.jpg  used on input line 270.
@@ -4210,7 +4204,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [102 <./figs/G10-BAI9-9.jpg> <./figs/G10-BAI9-10.jpg>]
-<figs/G10-BAI9-11.jpg, id=1329, 304.13625pt x 274.52562pt>
+<figs/G10-BAI9-11.jpg, id=1343, 304.13625pt x 274.52562pt>
 File: figs/G10-BAI9-11.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-11.jpg>
 Package pdftex.def Info: figs/G10-BAI9-11.jpg  used on input line 270.
@@ -4228,7 +4222,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [103 <./figs/G10-BAI9-11.jpg>]
-<figs/G10-BAI9-12.jpg, id=1338, 505.89pt x 219.7008pt>
+<figs/G10-BAI9-12.jpg, id=1352, 505.89pt x 219.7008pt>
 File: figs/G10-BAI9-12.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-12.jpg>
 Package pdftex.def Info: figs/G10-BAI9-12.jpg  used on input line 319.
@@ -4251,22 +4245,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [104]
-<figs/G10-BAI9-13.jpg, id=1354, 305.4612pt x 114.1866pt>
+<figs/G10-BAI9-13.jpg, id=1368, 305.4612pt x 114.1866pt>
 File: figs/G10-BAI9-13.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-13.jpg>
 Package pdftex.def Info: figs/G10-BAI9-13.jpg  used on input line 324.
 (pdftex.def)             Requested size: 122.18231pt x 45.67381pt.
-<figs/G10-BAI9-14.jpg, id=1355, 306.9066pt x 116.1138pt>
+<figs/G10-BAI9-14.jpg, id=1369, 306.9066pt x 116.1138pt>
 File: figs/G10-BAI9-14.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-14.jpg>
 Package pdftex.def Info: figs/G10-BAI9-14.jpg  used on input line 328.
 (pdftex.def)             Requested size: 122.76045pt x 46.44469pt.
-<figs/G10-BAI9-15.jpg, id=1356, 270.2898pt x 176.8206pt>
+<figs/G10-BAI9-15.jpg, id=1370, 270.2898pt x 176.8206pt>
 File: figs/G10-BAI9-15.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-15.jpg>
 Package pdftex.def Info: figs/G10-BAI9-15.jpg  used on input line 332.
 (pdftex.def)             Requested size: 108.114pt x 70.72697pt.
-<figs/G10-BAI9-16.jpg, id=1357, 660.066pt x 159.9576pt>
+<figs/G10-BAI9-16.jpg, id=1371, 660.066pt x 159.9576pt>
 File: figs/G10-BAI9-16.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-16.jpg>
 Package pdftex.def Info: figs/G10-BAI9-16.jpg  used on input line 340.
@@ -4288,7 +4282,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [105 <./figs/G10-BAI9-12.jpg> <./figs/G10-BAI9-13.jpg> <./figs/G10-BAI9-14.jpg>
  <./figs/G10-BAI9-15.jpg> <./figs/G10-BAI9-16.jpg>]
-<figs/G10-BAI9-17.jpg, id=1366, 283.0575pt x 185.94469pt>
+<figs/G10-BAI9-17.jpg, id=1380, 283.0575pt x 185.94469pt>
 File: figs/G10-BAI9-17.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-17.jpg>
 Package pdftex.def Info: figs/G10-BAI9-17.jpg  used on input line 364.
@@ -4304,7 +4298,7 @@ File: figs/G10-BAI9-17.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-17.jpg>
 Package pdftex.def Info: figs/G10-BAI9-17.jpg  used on input line 364.
 (pdftex.def)             Requested size: 113.22098pt x 74.37654pt.
-<figs/G10-BAI9-18.jpg, id=1367, 317.988pt x 219.7008pt>
+<figs/G10-BAI9-18.jpg, id=1381, 317.988pt x 219.7008pt>
 File: figs/G10-BAI9-18.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-18.jpg>
 Package pdftex.def Info: figs/G10-BAI9-18.jpg  used on input line 370.
@@ -4335,7 +4329,7 @@ File: figs/G10-BAI9-17.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-17.jpg>
 Package pdftex.def Info: figs/G10-BAI9-17.jpg  used on input line 376.
 (pdftex.def)             Requested size: 113.22098pt x 74.37654pt.
-<figs/G10-BAI9-19.jpg, id=1368, 255.95625pt x 258.21469pt>
+<figs/G10-BAI9-19.jpg, id=1382, 255.95625pt x 258.21469pt>
 File: figs/G10-BAI9-19.jpg Graphic file (type jpg)
 <use figs/G10-BAI9-19.jpg>
 Package pdftex.def Info: figs/G10-BAI9-19.jpg  used on input line 382.
@@ -4388,12 +4382,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [108]
-<figs/G10-BAI10-1.jpg, id=1387, 728.9634pt x 253.9086pt>
+<figs/G10-BAI10-1.jpg, id=1402, 728.9634pt x 253.9086pt>
 File: figs/G10-BAI10-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-1.jpg>
 Package pdftex.def Info: figs/G10-BAI10-1.jpg  used on input line 101.
 (pdftex.def)             Requested size: 364.4808pt x 126.95398pt.
-<figs/G10-BAI10-2.jpg, id=1388, 841.2228pt x 229.8186pt>
+<figs/G10-BAI10-2.jpg, id=1403, 841.2228pt x 229.8186pt>
 File: figs/G10-BAI10-2.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-2.jpg>
 Package pdftex.def Info: figs/G10-BAI10-2.jpg  used on input line 101.
@@ -4412,12 +4406,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [109 <./figs/G10-BAI10-1.jpg> <./figs/G10-BAI10-2.jpg>]
-<figs/G10-BAI10-3.jpg, id=1400, 691.08188pt x 345.54094pt>
+<figs/G10-BAI10-3.jpg, id=1414, 691.08188pt x 345.54094pt>
 File: figs/G10-BAI10-3.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-3.jpg>
 Package pdftex.def Info: figs/G10-BAI10-3.jpg  used on input line 141.
 (pdftex.def)             Requested size: 276.42784pt x 138.21391pt.
-<figs/G10-BAI10-4.jpg, id=1402, 377.15906pt x 184.43906pt>
+<figs/G10-BAI10-4.jpg, id=1416, 377.15906pt x 184.43906pt>
 File: figs/G10-BAI10-4.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-4.jpg>
 Package pdftex.def Info: figs/G10-BAI10-4.jpg  used on input line 141.
@@ -4435,12 +4429,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [110 <./figs/G10-BAI10-3.jpg>]
-<figs/G10-BAI10-5.jpg, id=1411, 720.7728pt x 286.671pt>
+<figs/G10-BAI10-5.jpg, id=1425, 720.7728pt x 286.671pt>
 File: figs/G10-BAI10-5.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-5.jpg>
 Package pdftex.def Info: figs/G10-BAI10-5.jpg  used on input line 170.
 (pdftex.def)             Requested size: 360.38551pt x 143.33514pt.
-<figs/G10-BAI10-6.jpg, id=1412, 868.74562pt x 398.23781pt>
+<figs/G10-BAI10-6.jpg, id=1426, 868.74562pt x 398.23781pt>
 File: figs/G10-BAI10-6.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-6.jpg>
 Package pdftex.def Info: figs/G10-BAI10-6.jpg  used on input line 170.
@@ -4458,12 +4452,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [111 <./figs/G10-BAI10-4.jpg> <./figs/G10-BAI10-5.jpg>]
-<figs/G10-BAI10-7.jpg, id=1421, 952.0368pt x 313.6518pt>
+<figs/G10-BAI10-7.jpg, id=1435, 952.0368pt x 313.6518pt>
 File: figs/G10-BAI10-7.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-7.jpg>
 Package pdftex.def Info: figs/G10-BAI10-7.jpg  used on input line 170.
 (pdftex.def)             Requested size: 428.4126pt x 141.142pt.
-<figs/G10-BAI10-8.jpg, id=1422, 589.20125pt x 224.84pt>
+<figs/G10-BAI10-8.jpg, id=1436, 589.20125pt x 224.84pt>
 File: figs/G10-BAI10-8.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-8.jpg>
 Package pdftex.def Info: figs/G10-BAI10-8.jpg  used on input line 220.
@@ -4498,7 +4492,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [113 <./figs/G10-BAI10-8.jpg>]
-<figs/G10-BAI10-9.jpg, id=1435, 397.485pt x 297.36093pt>
+<figs/G10-BAI10-9.jpg, id=1449, 397.485pt x 297.36093pt>
 File: figs/G10-BAI10-9.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-9.jpg>
 Package pdftex.def Info: figs/G10-BAI10-9.jpg  used on input line 242.
@@ -4517,12 +4511,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--292
 
  []
 
-<figs/G10-BAI10-10.jpg, id=1448, 822.4326pt x 352.1958pt>
+<figs/G10-BAI10-10.jpg, id=1462, 822.4326pt x 352.1958pt>
 File: figs/G10-BAI10-10.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-10.jpg>
 Package pdftex.def Info: figs/G10-BAI10-10.jpg  used on input line 292.
 (pdftex.def)             Requested size: 328.96721pt x 140.87582pt.
-<figs/G10-BAI10-11.jpg, id=1449, 206.27063pt x 30.86531pt>
+<figs/G10-BAI10-11.jpg, id=1463, 206.27063pt x 30.86531pt>
 File: figs/G10-BAI10-11.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-11.jpg>
 Package pdftex.def Info: figs/G10-BAI10-11.jpg  used on input line 292.
@@ -4588,7 +4582,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [117]
-<figs/G10-BAI10-12.jpg, id=1487, 301.125pt x 239.39438pt>
+<figs/G10-BAI10-12.jpg, id=1501, 301.125pt x 239.39438pt>
 File: figs/G10-BAI10-12.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-12.jpg>
 Package pdftex.def Info: figs/G10-BAI10-12.jpg  used on input line 411.
@@ -4611,7 +4605,7 @@ en already used, duplicate ignored
                    \relax 
 l.416 	M
         ột viên bi khối lượng $m_1$ đang chuyển động với t�...
-<figs/G10-BAI10-13.jpg, id=1488, 490.4724pt x 85.7604pt>
+<figs/G10-BAI10-13.jpg, id=1502, 490.4724pt x 85.7604pt>
 File: figs/G10-BAI10-13.jpg Graphic file (type jpg)
 <use figs/G10-BAI10-13.jpg>
 Package pdftex.def Info: figs/G10-BAI10-13.jpg  used on input line 418.
@@ -4628,7 +4622,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [118 <./figs/G10-BAI10-12.jpg> <./figs/G10-BAI10-13.jpg>] (./data/G10-BAI11.tex
 Ch\uhorn \ohorn ng 11.
 
-Overfull \hbox (2.3998pt too wide) in alignment at lines 48--70
+Overfull \hbox (2.3998pt too wide) in alignment at lines 48--73
  [] [] [] [] [] 
  []
 
@@ -4643,7 +4637,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [119
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
@@ -4656,15 +4650,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [120]
-<figs/G10-BAI11-1.jpg, id=1511, 921.6834pt x 443.7378pt>
+<figs/G10-BAI11-1.jpg, id=1525, 921.6834pt x 443.7378pt>
 File: figs/G10-BAI11-1.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-1.jpg>
-Package pdftex.def Info: figs/G10-BAI11-1.jpg  used on input line 113.
+Package pdftex.def Info: figs/G10-BAI11-1.jpg  used on input line 116.
 (pdftex.def)             Requested size: 368.66682pt x 177.49197pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
-
- []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4675,21 +4665,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [121 <./figs/G10-BAI11-1.jpg>]
-<figs/G10-BAI11-2.jpg, id=1521, 454.69875pt x 303.38344pt>
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+
+ []
+
+<figs/G10-BAI11-2.jpg, id=1533, 454.69875pt x 303.38344pt>
 File: figs/G10-BAI11-2.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-2.jpg>
-Package pdftex.def Info: figs/G10-BAI11-2.jpg  used on input line 190.
+Package pdftex.def Info: figs/G10-BAI11-2.jpg  used on input line 193.
 (pdftex.def)             Requested size: 181.87627pt x 121.35121pt.
-<figs/G10-BAI11-3.jpg, id=1522, 367.1316pt x 374.3586pt>
+<figs/G10-BAI11-3.jpg, id=1534, 367.1316pt x 374.3586pt>
 File: figs/G10-BAI11-3.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-3.jpg>
-Package pdftex.def Info: figs/G10-BAI11-3.jpg  used on input line 190.
+Package pdftex.def Info: figs/G10-BAI11-3.jpg  used on input line 193.
 (pdftex.def)             Requested size: 183.56534pt x 187.17883pt.
-<figs/G10-BAI11-4.jpg, id=1523, 279.0425pt x 245.41687pt>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[122 <./figs/G10-BAI11-2.jpg> <./figs/G10-BAI11-3.jpg>]
+<figs/G10-BAI11-4.jpg, id=1543, 279.0425pt x 245.41687pt>
 File: figs/G10-BAI11-4.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-4.jpg>
-Package pdftex.def Info: figs/G10-BAI11-4.jpg  used on input line 190.
+Package pdftex.def Info: figs/G10-BAI11-4.jpg  used on input line 193.
 (pdftex.def)             Requested size: 195.3284pt x 171.79062pt.
+<figs/G10-BAI11-5.jpg, id=1544, 604.2575pt x 172.14313pt>
+File: figs/G10-BAI11-5.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-5.jpg>
+Package pdftex.def Info: figs/G10-BAI11-5.jpg  used on input line 193.
+(pdftex.def)             Requested size: 332.34265pt x 94.679pt.
+<figs/G10-BAI11-6.jpg, id=1545, 600.74437pt x 215.30438pt>
+File: figs/G10-BAI11-6.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-6.jpg>
+Package pdftex.def Info: figs/G10-BAI11-6.jpg  used on input line 193.
+(pdftex.def)             Requested size: 300.37144pt x 107.65192pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -4702,42 +4715,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[122 <./figs/G10-BAI11-2.jpg> <./figs/G10-BAI11-3.jpg>]
-<figs/G10-BAI11-5.jpg, id=1530, 604.2575pt x 172.14313pt>
-File: figs/G10-BAI11-5.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-5.jpg>
-Package pdftex.def Info: figs/G10-BAI11-5.jpg  used on input line 190.
-(pdftex.def)             Requested size: 332.34265pt x 94.679pt.
-<figs/G10-BAI11-6.jpg, id=1531, 600.74437pt x 215.30438pt>
-File: figs/G10-BAI11-6.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-6.jpg>
-Package pdftex.def Info: figs/G10-BAI11-6.jpg  used on input line 190.
-(pdftex.def)             Requested size: 300.37144pt x 107.65192pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[123 <./figs/G10-BAI11-4.jpg> <./figs/G10-BAI11-5.jpg> <./figs/G10-BAI11-6.jpg>
-]
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[123 <./figs/G10-BAI11-4.jpg> <./figs/G10-BAI11-5.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 
  []
 
-<figs/G10-BAI11-7.jpg, id=1536, 241.65282pt x 277.78781pt>
+<figs/G10-BAI11-7.jpg, id=1550, 241.65282pt x 277.78781pt>
 File: figs/G10-BAI11-7.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-7.jpg>
-Package pdftex.def Info: figs/G10-BAI11-7.jpg  used on input line 230.
+Package pdftex.def Info: figs/G10-BAI11-7.jpg  used on input line 233.
 (pdftex.def)             Requested size: 120.82611pt x 138.89355pt.
-<figs/G10-BAI11-8.jpg, id=1537, 380.622pt x 247.6452pt>
-File: figs/G10-BAI11-8.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-8.jpg>
-Package pdftex.def Info: figs/G10-BAI11-8.jpg  used on input line 230.
-(pdftex.def)             Requested size: 190.31052pt x 123.82228pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4746,11 +4737,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[124 <./figs/G10-BAI11-7.jpg>]
-<figs/G10-BAI11-9.jpg, id=1546, 442.2924pt x 409.0482pt>
+[124 <./figs/G10-BAI11-6.jpg>]
+<figs/G10-BAI11-8.jpg, id=1559, 380.622pt x 247.6452pt>
+File: figs/G10-BAI11-8.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-8.jpg>
+Package pdftex.def Info: figs/G10-BAI11-8.jpg  used on input line 233.
+(pdftex.def)             Requested size: 190.31052pt x 123.82228pt.
+<figs/G10-BAI11-9.jpg, id=1560, 442.2924pt x 409.0482pt>
 File: figs/G10-BAI11-9.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-9.jpg>
-Package pdftex.def Info: figs/G10-BAI11-9.jpg  used on input line 230.
+Package pdftex.def Info: figs/G10-BAI11-9.jpg  used on input line 233.
 (pdftex.def)             Requested size: 309.60257pt x 286.33179pt.
 
 
@@ -4761,19 +4757,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[125 <./figs/G10-BAI11-8.jpg> <./figs/G10-BAI11-9.jpg>]
-<figs/G10-BAI11-10.jpg, id=1553, 247.1634pt x 287.3937pt>
+[125 <./figs/G10-BAI11-7.jpg> <./figs/G10-BAI11-8.jpg> <./figs/G10-BAI11-9.jpg>
+]
+<figs/G10-BAI11-10.jpg, id=1565, 247.1634pt x 287.3937pt>
 File: figs/G10-BAI11-10.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-10.jpg>
-Package pdftex.def Info: figs/G10-BAI11-10.jpg  used on input line 291.
+Package pdftex.def Info: figs/G10-BAI11-10.jpg  used on input line 294.
 (pdftex.def)             Requested size: 98.8636pt x 114.95543pt.
-<figs/G10-BAI11-11.jpg, id=1554, 218.2554pt x 421.0932pt>
-File: figs/G10-BAI11-11.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-11.jpg>
-Package pdftex.def Info: figs/G10-BAI11-11.jpg  used on input line 291.
-(pdftex.def)             Requested size: 87.3006pt x 168.43428pt.
 
-Underfull \vbox (badness 1383) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -4784,48 +4776,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[126 <./figs/G10-BAI11-10.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[126]
+<figs/G10-BAI11-11.jpg, id=1578, 218.2554pt x 421.0932pt>
+File: figs/G10-BAI11-11.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-11.jpg>
+Package pdftex.def Info: figs/G10-BAI11-11.jpg  used on input line 294.
+(pdftex.def)             Requested size: 87.3006pt x 168.43428pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[127 <./figs/G10-BAI11-10.jpg> <./figs/G10-BAI11-11.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
 
  []
 
-<figs/G10-BAI11-12.jpg, id=1565, 281.853pt x 231.86626pt>
+<figs/G10-BAI11-12.jpg, id=1584, 281.853pt x 231.86626pt>
 File: figs/G10-BAI11-12.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-12.jpg>
-Package pdftex.def Info: figs/G10-BAI11-12.jpg  used on input line 335.
+Package pdftex.def Info: figs/G10-BAI11-12.jpg  used on input line 338.
 (pdftex.def)             Requested size: 140.92615pt x 115.93283pt.
-
-Underfull \vbox (badness 4543) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[127 <./figs/G10-BAI11-11.jpg>]
-<figs/G10-BAI11-13.jpg, id=1575, 270.2898pt x 405.1938pt>
+<figs/G10-BAI11-13.jpg, id=1585, 270.2898pt x 405.1938pt>
 File: figs/G10-BAI11-13.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-13.jpg>
-Package pdftex.def Info: figs/G10-BAI11-13.jpg  used on input line 335.
+Package pdftex.def Info: figs/G10-BAI11-13.jpg  used on input line 338.
 (pdftex.def)             Requested size: 135.14456pt x 202.5964pt.
-<figs/G10-BAI11-14.png, id=1576, 192.2382pt x 312.6882pt>
+<figs/G10-BAI11-14.png, id=1586, 192.2382pt x 312.6882pt>
 File: figs/G10-BAI11-14.png Graphic file (type png)
 <use figs/G10-BAI11-14.png>
-Package pdftex.def Info: figs/G10-BAI11-14.png  used on input line 335.
+Package pdftex.def Info: figs/G10-BAI11-14.png  used on input line 338.
 (pdftex.def)             Requested size: 96.11885pt x 156.3437pt.
-<figs/G10-BAI11-15.jpg, id=1577, 192.2382pt x 312.6882pt>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[128 <./figs/G10-BAI11-12.jpg> <./figs/G10-BAI11-13.jpg>]
+<figs/G10-BAI11-15.jpg, id=1595, 192.2382pt x 312.6882pt>
 File: figs/G10-BAI11-15.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-15.jpg>
-Package pdftex.def Info: figs/G10-BAI11-15.jpg  used on input line 335.
+Package pdftex.def Info: figs/G10-BAI11-15.jpg  used on input line 338.
 (pdftex.def)             Requested size: 96.11885pt x 156.3437pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4834,23 +4834,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[128 <./figs/G10-BAI11-12.jpg> <./figs/G10-BAI11-13.jpg> <./figs/G10-BAI11-14.p
-ng>]
-Underfull \vbox (badness 1173) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[129 <./figs/G10-BAI11-15.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[129 <./figs/G10-BAI11-14.png> <./figs/G10-BAI11-15.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -4860,51 +4844,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [130]
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 
  []
 
-<figs/G10-BAI11-16.jpg, id=1601, 281.55188pt x 212.29312pt>
-File: figs/G10-BAI11-16.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-16.jpg>
-Package pdftex.def Info: figs/G10-BAI11-16.jpg  used on input line 430.
-(pdftex.def)             Requested size: 140.77559pt x 106.1463pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.430 ...degraphics[scale=0.5]{figs/G10-BAI11-16}}
-                                                  
-File: figs/G10-BAI11-16.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-16.jpg>
-Package pdftex.def Info: figs/G10-BAI11-16.jpg  used on input line 430.
-(pdftex.def)             Requested size: 140.77559pt x 106.1463pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.435 	M
-        ột tủ lạnh có khối lượng \SI{120}{\kilogram} được k�...
-<figs/G10-BAI11-17.jpg, id=1602, 279.225pt x 169.944pt>
-File: figs/G10-BAI11-17.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-17.jpg>
-Package pdftex.def Info: figs/G10-BAI11-17.jpg  used on input line 446.
-(pdftex.def)             Requested size: 139.61215pt x 84.97179pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.446 ...degraphics[scale=0.5]{figs/G10-BAI11-17}}
-                                                  
-File: figs/G10-BAI11-17.jpg Graphic file (type jpg)
-<use figs/G10-BAI11-17.jpg>
-Package pdftex.def Info: figs/G10-BAI11-17.jpg  used on input line 446.
-(pdftex.def)             Requested size: 139.61215pt x 84.97179pt.
-
-Underfull \vbox (badness 2142) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -4915,54 +4860,106 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[131 <./figs/G10-BAI11-16.jpg>]
-<figs/G10-BAI11-18.jpg, id=1613, 198.7425pt x 265.99374pt>
+[131]
+<figs/G10-BAI11-16.jpg, id=1625, 281.55188pt x 212.29312pt>
+File: figs/G10-BAI11-16.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-16.jpg>
+Package pdftex.def Info: figs/G10-BAI11-16.jpg  used on input line 458.
+(pdftex.def)             Requested size: 140.77559pt x 106.1463pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.458 ...degraphics[scale=0.5]{figs/G10-BAI11-16}}
+                                                  
+File: figs/G10-BAI11-16.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-16.jpg>
+Package pdftex.def Info: figs/G10-BAI11-16.jpg  used on input line 458.
+(pdftex.def)             Requested size: 140.77559pt x 106.1463pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.463 	M
+        ột tủ lạnh có khối lượng \SI{120}{\kilogram} được k�...
+<figs/G10-BAI11-17.jpg, id=1626, 279.225pt x 169.944pt>
+File: figs/G10-BAI11-17.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-17.jpg>
+Package pdftex.def Info: figs/G10-BAI11-17.jpg  used on input line 474.
+(pdftex.def)             Requested size: 139.61215pt x 84.97179pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.474 ...degraphics[scale=0.5]{figs/G10-BAI11-17}}
+                                                  
+File: figs/G10-BAI11-17.jpg Graphic file (type jpg)
+<use figs/G10-BAI11-17.jpg>
+Package pdftex.def Info: figs/G10-BAI11-17.jpg  used on input line 474.
+(pdftex.def)             Requested size: 139.61215pt x 84.97179pt.
+<figs/G10-BAI11-18.jpg, id=1627, 198.7425pt x 265.99374pt>
 File: figs/G10-BAI11-18.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-18.jpg>
-Package pdftex.def Info: figs/G10-BAI11-18.jpg  used on input line 456.
+Package pdftex.def Info: figs/G10-BAI11-18.jpg  used on input line 484.
 (pdftex.def)             Requested size: 79.49557pt x 106.3956pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.456 ...degraphics[scale=0.4]{figs/G10-BAI11-18}}
+l.484 ...degraphics[scale=0.4]{figs/G10-BAI11-18}}
                                                   
 File: figs/G10-BAI11-18.jpg Graphic file (type jpg)
 <use figs/G10-BAI11-18.jpg>
-Package pdftex.def Info: figs/G10-BAI11-18.jpg  used on input line 456.
+Package pdftex.def Info: figs/G10-BAI11-18.jpg  used on input line 484.
 (pdftex.def)             Requested size: 79.49557pt x 106.3956pt.
-<figs/BTMASAT-8.jpg, id=1614, 442.2924pt x 132.9768pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[132 <./figs/G10-BAI11-16.jpg> <./figs/G10-BAI11-17.jpg>]
+<figs/BTMASAT-8.jpg, id=1636, 442.2924pt x 132.9768pt>
 File: figs/BTMASAT-8.jpg Graphic file (type jpg)
 <use figs/BTMASAT-8.jpg>
-Package pdftex.def Info: figs/BTMASAT-8.jpg  used on input line 460.
+Package pdftex.def Info: figs/BTMASAT-8.jpg  used on input line 488.
 (pdftex.def)             Requested size: 265.37749pt x 79.78668pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.460 ...cludegraphics[scale=0.6]{figs/BTMASAT-8}}
+l.488 ...cludegraphics[scale=0.6]{figs/BTMASAT-8}}
                                                   
 File: figs/BTMASAT-8.jpg Graphic file (type jpg)
 <use figs/BTMASAT-8.jpg>
-Package pdftex.def Info: figs/BTMASAT-8.jpg  used on input line 460.
+Package pdftex.def Info: figs/BTMASAT-8.jpg  used on input line 488.
 (pdftex.def)             Requested size: 265.37749pt x 79.78668pt.
-<figs/BTMASAT-7.jpg, id=1615, 91.84312pt x 87.32625pt>
+<figs/BTMASAT-7.jpg, id=1637, 91.84312pt x 87.32625pt>
 File: figs/BTMASAT-7.jpg Graphic file (type jpg)
 <use figs/BTMASAT-7.jpg>
-Package pdftex.def Info: figs/BTMASAT-7.jpg  used on input line 466.
+Package pdftex.def Info: figs/BTMASAT-7.jpg  used on input line 494.
 (pdftex.def)             Requested size: 64.28973pt x 61.12794pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.466 	}
+l.494 	}
         
 File: figs/BTMASAT-7.jpg Graphic file (type jpg)
 <use figs/BTMASAT-7.jpg>
-Package pdftex.def Info: figs/BTMASAT-7.jpg  used on input line 466.
+Package pdftex.def Info: figs/BTMASAT-7.jpg  used on input line 494.
 (pdftex.def)             Requested size: 64.28973pt x 61.12794pt.
 )
 
@@ -4973,161 +4970,249 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[132 <./figs/G10-BAI11-17.jpg> <./figs/G10-BAI11-18.jpg> <./figs/BTMASAT-8.jpg>
- <./figs/BTMASAT-7.jpg>] (./data/G10-BAI12.tex
+[133 <./figs/G10-BAI11-18.jpg> <./figs/BTMASAT-8.jpg> <./figs/BTMASAT-7.jpg>]
+(./data/G10-BAI12.tex
+Ch\uhorn \ohorn ng 12.
+
+Overfull \hbox (2.3998pt too wide) in alignment at lines 36--52
+ [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[134
+
+]
+<figs/G10-BAI12-1.jpg, id=1652, 162.6075pt x 200.75pt>
+File: figs/G10-BAI12-1.jpg Graphic file (type jpg)
+<use figs/G10-BAI12-1.jpg>
+Package pdftex.def Info: figs/G10-BAI12-1.jpg  used on input line 91.
+(pdftex.def)             Requested size: 130.08617pt x 160.6002pt.
+<figs/G10-BAI12-2.jpg, id=1653, 374.90062pt x 354.32375pt>
+File: figs/G10-BAI12-2.jpg Graphic file (type jpg)
+<use figs/G10-BAI12-2.jpg>
+Package pdftex.def Info: figs/G10-BAI12-2.jpg  used on input line 91.
+(pdftex.def)             Requested size: 224.94211pt x 212.59589pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[135 <./figs/G10-BAI12-1.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[136 <./figs/G10-BAI12-2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[137]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[138]
+<figs/G10-BAI12-3.jpg, id=1692, 302.63063pt x 149.05687pt>
+File: figs/G10-BAI12-3.jpg Graphic file (type jpg)
+<use figs/G10-BAI12-3.jpg>
+Package pdftex.def Info: figs/G10-BAI12-3.jpg  used on input line 282.
+(pdftex.def)             Requested size: 211.83998pt x 104.3391pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+File: figs/G10-BAI12-2.jpg Graphic file (type jpg)
+<use figs/G10-BAI12-2.jpg>
+Package pdftex.def Info: figs/G10-BAI12-2.jpg  used on input line 289.
+(pdftex.def)             Requested size: 224.94211pt x 212.59589pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[139 <./figs/G10-BAI12-3.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.321 	M
+        ột vật rơi có khối lượng $m$, được ném ngang với v...
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.331 	M
+        ột vật có khối lượng $m$, được ném ngang với vận ...
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.341 	Q
+        uỹ đạo chuyển động của vật ném ngang là một
+pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.351 	Q
+        uả cầu I có khối lượng  gấp đôi quả cầu II. Cùng ...
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.361 	T
+        ừ trên một máy bay đang chuyển động đều theo phương...
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.371 	T
+        rong chuyển động ném ngang, gia tốc của vật tại một ...
+
 pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4 	M
-      ột vật rơi có khối lượng $m$, được ném ngang với v�...
+l.381 	M
+        ột vật ở độ cao $h$ được ném theo phương ngang với...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 	M
-       ột vật có khối lượng $m$, được ném ngang với vận t...
+l.391 	N
+        ém một vật nhỏ theo phương nằm ngang với tốc độ ba...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 	Q
-       uỹ đạo chuyển động của vật ném ngang là một
+l.401 	M
+        ột vật ở độ cao $h$ được ném theo phương ngang với...
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[140]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.10}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 	Q
-       uả cầu I có khối lượng  gấp đôi quả cầu II. Cùng m...
+l.411 	M
+        ột quả bóng được ném theo phương ngang với tốc độ...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.11}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 	T
-       ừ trên một máy bay đang chuyển động đều theo phương ...
+l.421 	M
+        ột viên đạn được bắn theo phương ngang từ một kh�...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.12}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 	T
-       rong chuyển động ném ngang, gia tốc của vật tại một v...
+l.431 	P
+        hương trình quỹ đạo của một vật được ném theo ph�...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.13}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 	M
-       ột vật ở độ cao $h$ được ném theo phương ngang với ...
+l.441 	M
+        ột vật được ném theo phương ngang với tốc độ $v_0=...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.14}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 	N
-       ém một vật nhỏ theo phương nằm ngang với tốc độ ban...
+l.451 	M
+        ột vật được ném ngang với tốc độ $v_0=\SI{30}{\meter...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.15}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 	M
-       ột vật ở độ cao $h$ được ném theo phương ngang với ...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.16}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.94 	M
-       ột quả bóng được ném theo phương ngang với tốc độ ...
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[133]
-pdfTeX warning (ext4): destination with the same identifier (name{ex.17}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.104 	M
-        ột viên đạn được bắn theo phương ngang từ một kh�...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.18}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.114 	P
-        hương trình quỹ đạo của một vật được ném theo ph�...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.19}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.124 	M
-        ột vật được ném theo phương ngang với tốc độ $v_0=...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.20}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.134 	M
-        ột vật được ném ngang với tốc độ $v_0=\SI{30}{\meter...
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.21}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.144 	M
+l.461 	M
         ột vật được ném theo phương ngang với tốc độ ban �...
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.22}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 	T
+l.473 	T
         ừ độ cao $\SI{45}{\meter}$ so với mặt đất, một vật �...
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.23}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.160 	M
+l.478 	M
         ột người trượt tuyết rời khỏi đường trượt theo ...
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.24}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 	M
+l.483 	M
         ột quả cầu được ném theo phương ngang từ độ cao $\...
-<figs/../figs/G10-BTNEMNGANG2.jpg, id=1627, 207.77625pt x 191.71625pt>
+<figs/../figs/G10-BTNEMNGANG2.jpg, id=1706, 207.77625pt x 191.71625pt>
 File: figs/../figs/G10-BTNEMNGANG2.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2.jpg>
-Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2.jpg  used on input line 1
-85.
+Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2.jpg  used on input line 5
+03.
 (pdftex.def)             Requested size: 145.44237pt x 134.20045pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.25}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.185 ...hics[scale=0.7]{../figs/G10-BTNEMNGANG2}}
+l.503 ...hics[scale=0.7]{../figs/G10-BTNEMNGANG2}}
                                                   
 File: figs/../figs/G10-BTNEMNGANG2.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2.jpg>
-Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2.jpg  used on input line 1
-85.
+Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2.jpg  used on input line 5
+03.
 (pdftex.def)             Requested size: 145.44237pt x 134.20045pt.
-
-Underfull \vbox (badness 3826) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -5137,60 +5222,60 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[134]
-<figs/../figs/G10-BTNEMNGANG2-2.jpg, id=1634, 330.23375pt x 235.37938pt>
+[141]
+<figs/../figs/G10-BTNEMNGANG2-2.jpg, id=1713, 330.23375pt x 235.37938pt>
 File: figs/../figs/G10-BTNEMNGANG2-2.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-2.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-2.jpg  used on input line
- 192.
+ 510.
 (pdftex.def)             Requested size: 198.14177pt x 141.22871pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.26}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192 ...cs[scale=0.6]{../figs/G10-BTNEMNGANG2-2}}
+l.510 ...cs[scale=0.6]{../figs/G10-BTNEMNGANG2-2}}
                                                   
 File: figs/../figs/G10-BTNEMNGANG2-2.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-2.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-2.jpg  used on input line
- 192.
+ 510.
 (pdftex.def)             Requested size: 198.14177pt x 141.22871pt.
-<figs/../figs/G10-BTNEMNGANG2-5.jpg, id=1635, 340.27126pt x 258.9675pt>
+<figs/../figs/G10-BTNEMNGANG2-5.jpg, id=1714, 340.27126pt x 258.9675pt>
 File: figs/../figs/G10-BTNEMNGANG2-5.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-5.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-5.jpg  used on input line
- 198.
+ 516.
 (pdftex.def)             Requested size: 204.16432pt x 155.38168pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.27}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.198 ...cs[scale=0.6]{../figs/G10-BTNEMNGANG2-5}}
+l.516 ...cs[scale=0.6]{../figs/G10-BTNEMNGANG2-5}}
                                                   
 File: figs/../figs/G10-BTNEMNGANG2-5.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-5.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-5.jpg  used on input line
- 198.
+ 516.
 (pdftex.def)             Requested size: 204.16432pt x 155.38168pt.
-<figs/../figs/G10-BTNEMNGANG2-4.jpg, id=1636, 305.64188pt x 285.065pt>
+<figs/../figs/G10-BTNEMNGANG2-4.jpg, id=1715, 305.64188pt x 285.065pt>
 File: figs/../figs/G10-BTNEMNGANG2-4.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-4.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-4.jpg  used on input line
- 212.
+ 530.
 (pdftex.def)             Requested size: 183.38652pt x 171.04031pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.28}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.212 ...cs[scale=0.6]{../figs/G10-BTNEMNGANG2-4}}
+l.530 ...cs[scale=0.6]{../figs/G10-BTNEMNGANG2-4}}
                                                   
 File: figs/../figs/G10-BTNEMNGANG2-4.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-4.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-4.jpg  used on input line
- 212.
+ 530.
 (pdftex.def)             Requested size: 183.38652pt x 171.04031pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -5204,18 +5289,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[135 <./figs/../figs/G10-BTNEMNGANG2.jpg> <./figs/../figs/G10-BTNEMNGANG2-2.jpg
+[142 <./figs/../figs/G10-BTNEMNGANG2.jpg> <./figs/../figs/G10-BTNEMNGANG2-2.jpg
 > <./figs/../figs/G10-BTNEMNGANG2-5.jpg>]
-<figs/../figs/G10-BTNEMNGANG2-3.jpg, id=1645, 147.4308pt x 93.4692pt>
+<figs/../figs/G10-BTNEMNGANG2-3.jpg, id=1724, 147.4308pt x 93.4692pt>
 File: figs/../figs/G10-BTNEMNGANG2-3.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-3.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-3.jpg  used on input line
- 219.
+ 537.
 (pdftex.def)             Requested size: 103.20085pt x 65.42798pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.537 ...cs[scale=0.7]{../figs/G10-BTNEMNGANG2-3}}
+                                                  
 File: figs/../figs/G10-BTNEMNGANG2-3.jpg Graphic file (type jpg)
 <use figs/../figs/G10-BTNEMNGANG2-3.jpg>
 Package pdftex.def Info: figs/../figs/G10-BTNEMNGANG2-3.jpg  used on input line
- 219.
+ 537.
 (pdftex.def)             Requested size: 103.20085pt x 65.42798pt.
 )
 
@@ -5226,7 +5318,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[136 <./figs/../figs/G10-BTNEMNGANG2-4.jpg> <./figs/../figs/G10-BTNEMNGANG2-3.j
+[143 <./figs/../figs/G10-BTNEMNGANG2-4.jpg> <./figs/../figs/G10-BTNEMNGANG2-3.j
 pg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -5236,7 +5328,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[137
+[144
 
 ] (./data/KTTX1-HK1.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 6--13
@@ -5244,7 +5336,7 @@ Overfull \hbox (17.0716pt too wide) in paragraph at lines 6--13
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5297,7 +5389,7 @@ en already used, duplicate ignored
                    \relax 
 l.73 	C
        ông nghệ chất bán dẫn liên tục phá vỡ các rào cản �...
-<figs/G10-CHUONG1-6.jpg, id=1657, 1204.5pt x 677.53125pt>
+<figs/G10-CHUONG1-6.jpg, id=1735, 1204.5pt x 677.53125pt>
 File: figs/G10-CHUONG1-6.jpg Graphic file (type jpg)
 <use figs/G10-CHUONG1-6.jpg>
 Package pdftex.def Info: figs/G10-CHUONG1-6.jpg  used on input line 75.
@@ -5310,7 +5402,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[138]
+[145]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -5373,7 +5465,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[139 <./figs/G10-CHUONG1-6.jpg>]
+[146 <./figs/G10-CHUONG1-6.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.15}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -5393,7 +5485,7 @@ een already used, duplicate ignored
                    \relax 
 l.214 	M
         ột học sinh dùng thước đo chiều dài của chiếc bút c...
-<figs/G10-CHUONG1-1.jpg, id=1673, 379.4175pt x 118.64325pt>
+<figs/G10-CHUONG1-1.jpg, id=1750, 379.4175pt x 118.64325pt>
 File: figs/G10-CHUONG1-1.jpg Graphic file (type jpg)
 <use figs/G10-CHUONG1-1.jpg>
 Package pdftex.def Info: figs/G10-CHUONG1-1.jpg  used on input line 216.
@@ -5454,8 +5546,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[140 <./figs/G10-CHUONG1-1.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+[147 <./figs/G10-CHUONG1-1.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5471,13 +5563,13 @@ en already used, duplicate ignored
                    \relax 
 l.357 	M
         ột bạn học sinh dùng volt kế để đo hiệu điện thế...
-<figs/G10-CHUONG1-2.jpg, id=1678, 534.19576pt x 243.91125pt>
+<figs/G10-CHUONG1-2.jpg, id=1755, 534.19576pt x 243.91125pt>
 File: figs/G10-CHUONG1-2.jpg Graphic file (type jpg)
 <use figs/G10-CHUONG1-2.jpg>
 Package pdftex.def Info: figs/G10-CHUONG1-2.jpg  used on input line 359.
 (pdftex.def)             Requested size: 307.29288pt x 140.30742pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5493,12 +5585,12 @@ en already used, duplicate ignored
                    \relax 
 l.383 	H
         ố đen là một trong những đối tượng rất đặc biệt...
-<figs/G10-CHUONG1-4.jpg, id=1679, 903.375pt x 508.14844pt>
+<figs/G10-CHUONG1-4.jpg, id=1756, 903.375pt x 508.14844pt>
 File: figs/G10-CHUONG1-4.jpg Graphic file (type jpg)
 <use figs/G10-CHUONG1-4.jpg>
 Package pdftex.def Info: figs/G10-CHUONG1-4.jpg  used on input line 386.
 (pdftex.def)             Requested size: 149.3763pt x 84.0192pt.
-<figs/G10-CHUONG1-5.jpg, id=1680, 930.47626pt x 542.025pt>
+<figs/G10-CHUONG1-5.jpg, id=1757, 930.47626pt x 542.025pt>
 File: figs/G10-CHUONG1-5.jpg Graphic file (type jpg)
 <use figs/G10-CHUONG1-5.jpg>
 Package pdftex.def Info: figs/G10-CHUONG1-5.jpg  used on input line 387.
@@ -5511,14 +5603,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[141 <./figs/G10-CHUONG1-2.jpg>]
+[148 <./figs/G10-CHUONG1-2.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.416 	M
         ột nhóm học sinh đo được hiệu điện thế giữa hai �...
-<figs/G10-CHUONG1-3.jpg, id=1686, 585.68813pt x 281.55188pt>
+<figs/G10-CHUONG1-3.jpg, id=1763, 585.68813pt x 281.55188pt>
 File: figs/G10-CHUONG1-3.jpg Graphic file (type jpg)
 <use figs/G10-CHUONG1-3.jpg>
 Package pdftex.def Info: figs/G10-CHUONG1-3.jpg  used on input line 430.
@@ -5531,7 +5623,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[142 <./figs/G10-CHUONG1-4.jpg> <./figs/G10-CHUONG1-5.jpg> <./figs/G10-CHUONG1-
+[149 <./figs/G10-CHUONG1-4.jpg> <./figs/G10-CHUONG1-5.jpg> <./figs/G10-CHUONG1-
 3.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
@@ -5568,8 +5660,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[143]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+[150]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5584,7 +5676,7 @@ LaTeX Font Info:    Trying to load font information for T5+qcs on input line 50
 (c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
 File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
 ) (./ans/G10C1TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5600,7 +5692,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 2--2
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5614,14 +5706,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[144{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}]
+[151{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}]
 (./data/D10-GKI-001.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5660,7 +5752,7 @@ en already used, duplicate ignored
                    \relax 
 l.47 	T
        ốc độ là đại lượng đặc trưng cho
-<figs/../figs/D10-1-6.png, id=1701, 376.40625pt x 376.40625pt>
+<figs/../figs/D10-1-6.png, id=1779, 376.40625pt x 376.40625pt>
 File: figs/../figs/D10-1-6.png Graphic file (type png)
 <use figs/../figs/D10-1-6.png>
 Package pdftex.def Info: figs/../figs/D10-1-6.png  used on input line 67.
@@ -5703,7 +5795,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[145 <./figs/../figs/D10-1-6.png>]
+[152 <./figs/../figs/D10-1-6.png>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -5729,7 +5821,7 @@ een already used, duplicate ignored
                    \relax 
 l.196 	B
         ạn Bình đi học từ nhà đến trường theo lộ trình ABC...
-<figs/../figs/D10-1-3.jpg, id=1707, 649.9482pt x 405.6756pt>
+<figs/../figs/D10-1-3.jpg, id=1784, 649.9482pt x 405.6756pt>
 File: figs/../figs/D10-1-3.jpg Graphic file (type jpg)
 <use figs/../figs/D10-1-3.jpg>
 Package pdftex.def Info: figs/../figs/D10-1-3.jpg  used on input line 198.
@@ -5749,7 +5841,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[146 <./figs/../figs/D10-1-3.jpg>]
+[153 <./figs/../figs/D10-1-3.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.14}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -5799,7 +5891,7 @@ een already used, duplicate ignored
 l.298 	C
         ác giọt nước mưa rơi từ một đám mây; khi xuống tớ...
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5823,14 +5915,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[147]
+[154]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.366 	K
         hi xe chạy trên đường cao tốc, xe phải giữ khoảng cá...
-<figs/../figs/D10-1-4.jpg, id=1716, 238.491pt x 121.983pt>
+<figs/../figs/D10-1-4.jpg, id=1793, 238.491pt x 121.983pt>
 File: figs/../figs/D10-1-4.jpg Graphic file (type jpg)
 <use figs/../figs/D10-1-4.jpg>
 Package pdftex.def Info: figs/../figs/D10-1-4.jpg  used on input line 368.
@@ -5843,8 +5935,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[148 <./figs/../figs/D10-1-4.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+[155 <./figs/../figs/D10-1-4.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5874,7 +5966,7 @@ en already used, duplicate ignored
                    \relax 
 l.425 	T
         rong một thí nghiệm đo tốc độ chuyển động của vậ...
-<figs/../figs/D10-2-15.jpg, id=1723, 833.514pt x 77.088pt>
+<figs/../figs/D10-2-15.jpg, id=1801, 833.514pt x 77.088pt>
 File: figs/../figs/D10-2-15.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-15.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-15.jpg  used on input line 427.
@@ -5894,19 +5986,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[149 <./figs/../figs/D10-2-15.jpg>]
+[156 <./figs/../figs/D10-2-15.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.470 	M
         ột người đi xe đạp với tốc độ $v_1=\SI{5}{\meter/\se...
-<figs/../figs/D10-1-2.jpg, id=1728, 594.0594pt x 167.6664pt>
+<figs/../figs/D10-1-2.jpg, id=1806, 594.0594pt x 167.6664pt>
 File: figs/../figs/D10-1-2.jpg Graphic file (type jpg)
 <use figs/../figs/D10-1-2.jpg>
 Package pdftex.def Info: figs/../figs/D10-1-2.jpg  used on input line 472.
 (pdftex.def)             Requested size: 256.0748pt x 72.27678pt.
-<figs/../figs/D10-1-1.jpg, id=1729, 423.5022pt x 334.3692pt>
+<figs/../figs/D10-1-1.jpg, id=1807, 423.5022pt x 334.3692pt>
 File: figs/../figs/D10-1-1.jpg Graphic file (type jpg)
 <use figs/../figs/D10-1-1.jpg>
 Package pdftex.def Info: figs/../figs/D10-1-1.jpg  used on input line 487.
@@ -5931,8 +6023,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[150 <./figs/../figs/D10-1-2.jpg> <./figs/../figs/D10-1-1.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+[157 <./figs/../figs/D10-1-2.jpg> <./figs/../figs/D10-1-1.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5943,7 +6035,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 507.
 
 (./ans/D10-GKI-001-TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5979,7 +6071,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 5--5
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -5993,13 +6085,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[151] (./data/D10-GKI-002.tex
+[158] (./data/D10-GKI-002.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6095,14 +6187,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[152]
+[159]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.186 	M
         ột chất điểm chuyển động biến đổi với công thứ...
-<figs/../figs/D10-2-11.jpg, id=1744, 150.5625pt x 108.405pt>
+<figs/../figs/D10-2-11.jpg, id=1822, 150.5625pt x 108.405pt>
 File: figs/../figs/D10-2-11.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-11.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-11.jpg  used on input line 199.
@@ -6125,7 +6217,7 @@ een already used, duplicate ignored
                    \relax 
 l.209 	H
         ình sau thể hiện giờ đi từ Hà Nội (02/01/2024) và gi�...
-<figs/../figs/D10-2-12.jpg, id=1745, 501.875pt x 111.91812pt>
+<figs/../figs/D10-2-12.jpg, id=1823, 501.875pt x 111.91812pt>
 File: figs/../figs/D10-2-12.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-12.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-12.jpg  used on input line 211.
@@ -6166,7 +6258,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[153 <./figs/../figs/D10-2-11.jpg> <./figs/../figs/D10-2-12.jpg>]
+[160 <./figs/../figs/D10-2-11.jpg> <./figs/../figs/D10-2-12.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.16}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -6202,7 +6294,7 @@ een already used, duplicate ignored
 l.343 	M
         ột ô tô đang chạy với tốc độ $\SI{72}{\kilo\meter/\hou...
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6218,7 +6310,7 @@ en already used, duplicate ignored
                    \relax 
 l.361 	M
         ột vật chuyển động thẳng có đồ thị vận tốc theo...
-<figs/../figs/D10-2-8.jpg, id=1750, 884.5848pt x 455.7828pt>
+<figs/../figs/D10-2-8.jpg, id=1828, 884.5848pt x 455.7828pt>
 File: figs/../figs/D10-2-8.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-8.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-8.jpg  used on input line 363.
@@ -6235,20 +6327,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[154]
+[161]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.382 	M
         ột thiết bị tạo ra các chấm trên một băng giấy chuy...
-<figs/../figs/D10-2-9.jpg, id=1755, 254.9525pt x 173.64874pt>
+<figs/../figs/D10-2-9.jpg, id=1833, 254.9525pt x 173.64874pt>
 File: figs/../figs/D10-2-9.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-9.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-9.jpg  used on input line 384.
 (pdftex.def)             Requested size: 204.8567pt x 139.53389pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6257,7 +6349,7 @@ l.401 ...{Câu trắc nghiệm trả lời ngắn}
 Output from handle ans going to ans/D10-GKI-002-TL.tex
 \openout11 = `ans/D10-GKI-002-TL.tex'.
 
-<figs/../figs/D10-2-13.jpg, id=1756, 214.30063pt x 100.87688pt>
+<figs/../figs/D10-2-13.jpg, id=1834, 214.30063pt x 100.87688pt>
 File: figs/../figs/D10-2-13.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-13.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-13.jpg  used on input line 409.
@@ -6282,7 +6374,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[155 <./figs/../figs/D10-2-8.jpg> <./figs/../figs/D10-2-9.jpg>]
+[162 <./figs/../figs/D10-2-8.jpg> <./figs/../figs/D10-2-9.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -6307,7 +6399,7 @@ en already used, duplicate ignored
                    \relax 
 l.454 	H
         ình bên dưới mô tả vị trí của xe ô tô trong khoảng ...
-<figs/../figs/D10-2-14.jpg, id=1763, 627.10234pt x 74.09962pt>
+<figs/../figs/D10-2-14.jpg, id=1841, 627.10234pt x 74.09962pt>
 File: figs/../figs/D10-2-14.jpg Graphic file (type jpg)
 <use figs/../figs/D10-2-14.jpg>
 Package pdftex.def Info: figs/../figs/D10-2-14.jpg  used on input line 456.
@@ -6334,8 +6426,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[156 <./figs/../figs/D10-2-13.jpg> <./figs/../figs/D10-2-14.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+[163 <./figs/../figs/D10-2-13.jpg> <./figs/../figs/D10-2-14.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6346,7 +6438,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 534.
 
 (./ans/D10-GKI-002-TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6367,7 +6459,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 5--5
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6381,13 +6473,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[157] (./data/D10-HKI-KTTX2-001.tex
+[164] (./data/D10-HKI-KTTX2-001.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6455,7 +6547,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[158]
+[165]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -6469,7 +6561,7 @@ en already used, duplicate ignored
                    \relax 
 l.99 	M
        ột vật đang chuyển động dưới tác dụng của lực kh�...
-<figs/D10-HKI-KTTX2-001-1.jpg, id=1778, 1027.84pt x 1027.84pt>
+<figs/D10-HKI-KTTX2-001-1.jpg, id=1856, 1027.84pt x 1027.84pt>
 File: figs/D10-HKI-KTTX2-001-1.jpg Graphic file (type jpg)
 <use figs/D10-HKI-KTTX2-001-1.jpg>
 Package pdftex.def Info: figs/D10-HKI-KTTX2-001-1.jpg  used on input line 110.
@@ -6542,7 +6634,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[159 <./figs/D10-HKI-KTTX2-001-1.jpg>]
+[166 <./figs/D10-HKI-KTTX2-001-1.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.18}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -6564,7 +6656,7 @@ een already used, duplicate ignored
 l.210 	M
         ột lực $\vec{F}$ không đổi truyền cho một vật có kh�...
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6585,7 +6677,7 @@ en already used, duplicate ignored
                    \relax 
 l.225 	M
         ột bạn học sinh có khối lượng $m=\SI{55}{\kilogram}$ đa...
-<figs/D10-HKI-KTTX2-001-5.jpg, id=1783, 490.4724pt x 427.8384pt>
+<figs/D10-HKI-KTTX2-001-5.jpg, id=1861, 490.4724pt x 427.8384pt>
 File: figs/D10-HKI-KTTX2-001-5.jpg Graphic file (type jpg)
 <use figs/D10-HKI-KTTX2-001-5.jpg>
 Package pdftex.def Info: figs/D10-HKI-KTTX2-001-5.jpg  used on input line 229.
@@ -6602,20 +6694,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[160 <./figs/D10-HKI-KTTX2-001-5.jpg>]
+[167 <./figs/D10-HKI-KTTX2-001-5.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.246 	M
         ột người dùng đòn gánh dài $\SI{1.8}{\meter}$ để gánh ...
-<figs/D10-HKI-KTTX2-001-3.jpg, id=1789, 482.2818pt x 368.0952pt>
+<figs/D10-HKI-KTTX2-001-3.jpg, id=1867, 482.2818pt x 368.0952pt>
 File: figs/D10-HKI-KTTX2-001-3.jpg Graphic file (type jpg)
 <use figs/D10-HKI-KTTX2-001-3.jpg>
 Package pdftex.def Info: figs/D10-HKI-KTTX2-001-3.jpg  used on input line 248.
 (pdftex.def)             Requested size: 153.64644pt x 117.27051pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6631,7 +6723,7 @@ en already used, duplicate ignored
                    \relax 
 l.274 	S
         iêu xe Pininfarina Battista sản xuất tại Italy, được tran...
-<figs/../figs/D10-HKI-KTTX2-002-1.jpg, id=1790, 374.90062pt x 344.78813pt>
+<figs/../figs/D10-HKI-KTTX2-002-1.jpg, id=1868, 374.90062pt x 344.78813pt>
 File: figs/../figs/D10-HKI-KTTX2-002-1.jpg Graphic file (type jpg)
 <use figs/../figs/D10-HKI-KTTX2-002-1.jpg>
 Package pdftex.def Info: figs/../figs/D10-HKI-KTTX2-002-1.jpg  used on input li
@@ -6656,7 +6748,7 @@ en already used, duplicate ignored
                    \relax 
 l.291 	M
         ột ô tô có khối lượng $m=\SI{1000}{\kilogram}$ chuyển đ...
-<figs/../figs/D10-HKI-KTTX2-001-2.jpg, id=1791, 217.2918pt x 236.082pt>
+<figs/../figs/D10-HKI-KTTX2-001-2.jpg, id=1869, 217.2918pt x 236.082pt>
 File: figs/../figs/D10-HKI-KTTX2-001-2.jpg Graphic file (type jpg)
 <use figs/../figs/D10-HKI-KTTX2-001-2.jpg>
 Package pdftex.def Info: figs/../figs/D10-HKI-KTTX2-001-2.jpg  used on input li
@@ -6683,7 +6775,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[161 <./figs/D10-HKI-KTTX2-001-3.jpg> <./figs/../figs/D10-HKI-KTTX2-002-1.jpg>]
+[168 <./figs/D10-HKI-KTTX2-001-3.jpg> <./figs/../figs/D10-HKI-KTTX2-002-1.jpg>]
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
 en already used, duplicate ignored
@@ -6706,8 +6798,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[162 <./figs/../figs/D10-HKI-KTTX2-001-2.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+[169 <./figs/../figs/D10-HKI-KTTX2-001-2.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6718,7 +6810,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 332.
 
 (./ans/D10-HKI-KTTX2-001-TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6749,7 +6841,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 5--5
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6763,13 +6855,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[163] (./data/D10-HKI-KTTX2-002.tex
+[170] (./data/D10-HKI-KTTX2-002.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6850,7 +6942,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[164]
+[171]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.10}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -6914,7 +7006,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[165]
+[172]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.18}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -6936,7 +7028,7 @@ een already used, duplicate ignored
 l.213 	M
         ột lực tác dụng vào vật trong khoảng thời gian $\SI{0....
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -6957,7 +7049,7 @@ en already used, duplicate ignored
                    \relax 
 l.228 	M
         ột cậu bé đứng trên thùng xe của một chiếc xe bán t...
-<figs/D10-HKI-KTTX2-001-4.jpg, id=1819, 810.52812pt x 417.05812pt>
+<figs/D10-HKI-KTTX2-001-4.jpg, id=1896, 810.52812pt x 417.05812pt>
 File: figs/D10-HKI-KTTX2-001-4.jpg Graphic file (type jpg)
 <use figs/D10-HKI-KTTX2-001-4.jpg>
 Package pdftex.def Info: figs/D10-HKI-KTTX2-001-4.jpg  used on input line 230.
@@ -6970,7 +7062,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[166 <./figs/D10-HKI-KTTX2-001-4.jpg>]
+[173 <./figs/D10-HKI-KTTX2-001-4.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -6978,7 +7070,7 @@ en already used, duplicate ignored
 l.241 	H
         ai thanh dầm thép đồng chất, có trọng tâm (điểm đặ...
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7026,7 +7118,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[167]
+[174]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -7048,8 +7140,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[168]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+[175]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7060,7 +7152,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 366.
 
 (./ans/D10-HKI-KTTX2-002-TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7091,7 +7183,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 5--5
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7105,13 +7197,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[169] (./data/D10-CK1-001.tex
+[176] (./data/D10-CK1-001.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7185,7 +7277,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[170]
+[177]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -7248,7 +7340,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[171]
+[178]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.17}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -7263,7 +7355,7 @@ een already used, duplicate ignored
 l.276 	M
         ột quả bóng có khối lượng $\SI{300}{\gram}$ bay với v�...
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7284,7 +7376,7 @@ en already used, duplicate ignored
                    \relax 
 l.291 	N
         hận định các phát biểu sau về vai trò của lực ma sá...
-<figs/D10-CK1-002-2.jpg, id=1849, 274.626pt x 293.4162pt>
+<figs/D10-CK1-002-2.jpg, id=1926, 274.626pt x 293.4162pt>
 File: figs/D10-CK1-002-2.jpg Graphic file (type jpg)
 <use figs/D10-CK1-002-2.jpg>
 Package pdftex.def Info: figs/D10-CK1-002-2.jpg  used on input line 302.
@@ -7300,7 +7392,7 @@ File: figs/D10-CK1-002-2.jpg Graphic file (type jpg)
 <use figs/D10-CK1-002-2.jpg>
 Package pdftex.def Info: figs/D10-CK1-002-2.jpg  used on input line 302.
 (pdftex.def)             Requested size: 96.12053pt x 102.6972pt.
-<figs/D10-CK1-001-5.jpg, id=1850, 1284.8pt x 722.7pt>
+<figs/D10-CK1-001-5.jpg, id=1927, 1284.8pt x 722.7pt>
 File: figs/D10-CK1-001-5.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-5.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-5.jpg  used on input line 314.
@@ -7325,7 +7417,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[172 <./figs/D10-CK1-002-2.jpg>]
+[179 <./figs/D10-CK1-002-2.jpg>]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
@@ -7338,7 +7430,7 @@ l.336 	\end{tikzpicture}}
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7361,7 +7453,7 @@ en already used, duplicate ignored
                    \relax 
 l.358 	M
         ột vật khối lượng $m=\SI{1.5}{\kilogram}$ bắt đầu chuy...
-<figs/D10-CK1-001-3.jpg, id=1857, 199.24437pt x 253.94875pt>
+<figs/D10-CK1-001-3.jpg, id=1934, 199.24437pt x 253.94875pt>
 File: figs/D10-CK1-001-3.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-3.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-3.jpg  used on input line 369.
@@ -7377,7 +7469,7 @@ File: figs/D10-CK1-001-3.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-3.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-3.jpg  used on input line 369.
 (pdftex.def)             Requested size: 79.69633pt x 101.5777pt.
-<figs/D10-CK1-001-1.jpg, id=1858, 106.14656pt x 127.22531pt>
+<figs/D10-CK1-001-1.jpg, id=1935, 106.14656pt x 127.22531pt>
 File: figs/D10-CK1-001-1.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-1.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-1.jpg  used on input line 379.
@@ -7397,12 +7489,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[173 <./figs/D10-CK1-001-5.jpg> <./figs/D10-CK1-001-3.jpg>]
+[180 <./figs/D10-CK1-001-5.jpg> <./figs/D10-CK1-001-3.jpg>]
 File: figs/D10-CK1-001-1.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-1.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-1.jpg  used on input line 379.
 (pdftex.def)             Requested size: 42.45787pt x 50.8892pt.
-<figs/D10-CK1-001-6.jpg, id=1865, 355.82938pt x 215.80624pt>
+<figs/D10-CK1-001-6.jpg, id=1943, 355.82938pt x 215.80624pt>
 File: figs/D10-CK1-001-6.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-6.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-6.jpg  used on input line 389.
@@ -7418,7 +7510,7 @@ File: figs/D10-CK1-001-6.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-6.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-6.jpg  used on input line 389.
 (pdftex.def)             Requested size: 124.54213pt x 75.53331pt.
-<figs/D10-CK1-001-2.jpg, id=1866, 139.01938pt x 89.33376pt>
+<figs/D10-CK1-001-2.jpg, id=1944, 139.01938pt x 89.33376pt>
 File: figs/D10-CK1-001-2.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-2.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-2.jpg  used on input line 399.
@@ -7443,9 +7535,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[174 <./figs/D10-CK1-001-1.jpg> <./figs/D10-CK1-001-6.jpg> <./figs/D10-CK1-001-
+[181 <./figs/D10-CK1-001-1.jpg> <./figs/D10-CK1-001-6.jpg> <./figs/D10-CK1-001-
 2.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7456,7 +7548,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 414.
 
 (./ans/D10-CK1-001-TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7512,7 +7604,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 11--11
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7526,13 +7618,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[175] (./data/D10-CK1-002.tex
+[182] (./data/D10-CK1-002.tex
 Overfull \hbox (17.0716pt too wide) in paragraph at lines 2--9
  [] 
  []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7599,7 +7691,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[176]
+[183]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
 en already used, duplicate ignored
 <to be read again> 
@@ -7662,7 +7754,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[177]
+[184]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -7693,7 +7785,7 @@ een already used, duplicate ignored
 l.206 	M
         ột sợi dây có thể treo một vật đứng yên có khối l...
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7729,14 +7821,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[178]
+[185]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.242 	M
         ột quả cầu đặc được làm bằng nhôm. Người ta treo...
-<figs/D10-CK1-002-1.jpg, id=1890, 445.665pt x 260.6538pt>
+<figs/D10-CK1-002-1.jpg, id=1968, 445.665pt x 260.6538pt>
 File: figs/D10-CK1-002-1.jpg Graphic file (type jpg)
 <use figs/D10-CK1-002-1.jpg>
 Package pdftex.def Info: figs/D10-CK1-002-1.jpg  used on input line 252.
@@ -7753,7 +7845,7 @@ File: figs/D10-CK1-002-1.jpg Graphic file (type jpg)
 Package pdftex.def Info: figs/D10-CK1-002-1.jpg  used on input line 252.
 (pdftex.def)             Requested size: 111.41597pt x 65.16328pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7769,7 +7861,7 @@ en already used, duplicate ignored
                    \relax 
 l.266 	M
         ột ô tô đang chạy với tốc độ $\SI{10}{\meter/\second}$...
-<figs/D10-CK1-002-4.jpg, id=1891, 246.9225pt x 298.61563pt>
+<figs/D10-CK1-002-4.jpg, id=1969, 246.9225pt x 298.61563pt>
 File: figs/D10-CK1-002-4.jpg Graphic file (type jpg)
 <use figs/D10-CK1-002-4.jpg>
 Package pdftex.def Info: figs/D10-CK1-002-4.jpg  used on input line 276.
@@ -7785,7 +7877,7 @@ File: figs/D10-CK1-002-4.jpg Graphic file (type jpg)
 <use figs/D10-CK1-002-4.jpg>
 Package pdftex.def Info: figs/D10-CK1-002-4.jpg  used on input line 276.
 (pdftex.def)             Requested size: 74.0773pt x 89.58537pt.
-<figs/D10-CK1-002-3.jpg, id=1892, 349.305pt x 315.579pt>
+<figs/D10-CK1-002-3.jpg, id=1970, 349.305pt x 315.579pt>
 File: figs/D10-CK1-002-3.jpg Graphic file (type jpg)
 <use figs/D10-CK1-002-3.jpg>
 Package pdftex.def Info: figs/D10-CK1-002-3.jpg  used on input line 286.
@@ -7810,8 +7902,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[179 <./figs/D10-CK1-002-1.jpg> <./figs/D10-CK1-002-4.jpg>]
-<figs/D10-CK1-001-4.jpg, id=1899, 503.38063pt x 170.13562pt>
+[186 <./figs/D10-CK1-002-1.jpg> <./figs/D10-CK1-002-4.jpg>]
+<figs/D10-CK1-001-4.jpg, id=1977, 503.38063pt x 170.13562pt>
 File: figs/D10-CK1-001-4.jpg Graphic file (type jpg)
 <use figs/D10-CK1-001-4.jpg>
 Package pdftex.def Info: figs/D10-CK1-001-4.jpg  used on input line 295.
@@ -7848,8 +7940,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[180 <./figs/D10-CK1-002-3.jpg> <./figs/D10-CK1-001-4.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.1}
+[187 <./figs/D10-CK1-002-3.jpg> <./figs/D10-CK1-001-4.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7860,7 +7952,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 346.
 
 (./ans/D10-CK1-002-TN.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.2}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7896,7 +7988,7 @@ Overfull \hbox (1.12137pt too wide) in paragraph at lines 11--11
  []
 
 )
-pdfTeX warning (ext4): destination with the same identifier (name{section.11.3}
+pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7914,7 +8006,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[181] (./main.aux)
+[188] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -7928,13 +8020,13 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2183F50971CA5648D5B60850F1BFE742;19771.
+(rerunfilecheck)             Checksum: 1C705EA77FE62592DC86550003C42618;20343.
  ) 
 Here is how much of TeX's memory you used:
- 77430 strings out of 474116
- 1912153 string characters out of 5747718
- 3102551 words of memory out of 5000000
- 97777 multiletter control sequences out of 15000+600000
+ 77680 strings out of 474116
+ 1916900 string characters out of 5747718
+ 3102693 words of memory out of 5000000
+ 97987 multiletter control sequences out of 15000+600000
  598839 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,24n,141p,1181b,2557s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -7956,10 +8048,10 @@ t/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex
 /vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb><c:/
 texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnti8.pfb><c:/texlive/2024/texmf-
 dist/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main.pdf (181 pages, 8676181 bytes).
+Output written on main.pdf (188 pages, 8809139 bytes).
 PDF statistics:
- 2161 PDF objects out of 2487 (max. 8388607)
- 1745 compressed objects within 18 object streams
- 747 named destinations out of 1000 (max. 500000)
- 1690 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2247 PDF objects out of 2487 (max. 8388607)
+ 1819 compressed objects within 19 object streams
+ 787 named destinations out of 1000 (max. 500000)
+ 1729 words of extra memory for PDF output out of 10000 (max. 10000000)
 
