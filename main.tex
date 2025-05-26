@@ -78,7 +78,7 @@
 	a4paper	% khổ giấy A4
 	,total={180mm,260mm} % kích thước văn bản A4 170mmx247mm
 	,left=15mm % canh lề trái
-	,top=10mm % canh lề trên
+	,top=15mm % canh lề trên
 	,bottom=20mm
 	,footskip=1.0cm % khoảng cách từ văn bản đến footer
 }
@@ -260,6 +260,7 @@
 		{#1};
 	}
 }	
+
 % ---  
 \AtBeginDocument{
 	% --- PART format (level -1)
@@ -307,96 +308,97 @@
 }
 \renewcommand{\baselinestretch}{1.3} 
 \begin{document}
-	% ===================== BÌA=====================
-		\begin{titlepage}
-		\begin{tikzpicture}[remember picture,overlay,inner sep=0,outer sep=0]
-			\draw[blue!70!black,line width=4pt] ([xshift=-1.5cm,yshift=-2cm]current page.north east) coordinate (A)--([xshift=1.5cm,yshift=-2cm]current page.north west) coordinate(B)--([xshift=1.5cm,yshift=2cm]current page.south west) coordinate (C)--([xshift=-1.5cm,yshift=2cm]current page.south east) coordinate(D)--cycle;
-			
-			\draw ([yshift=0.5cm,xshift=-0.5cm]A)-- ([yshift=0.5cm,xshift=0.5cm]B)--
-			([yshift=-0.5cm,xshift=0.5cm]B) --([yshift=-0.5cm,xshift=-0.5cm]B)--([yshift=0.5cm,xshift=-0.5cm]C)--([yshift=0.5cm,xshift=0.5cm]C)--([yshift=-0.5cm,xshift=0.5cm]C)-- ([yshift=-0.5cm,xshift=-0.5cm]D)--([yshift=0.5cm,xshift=-0.5cm]D)--([yshift=0.5cm,xshift=0.5cm]D)--([yshift=-0.5cm,xshift=0.5cm]A)--([yshift=-0.5cm,xshift=-0.5cm]A)--([yshift=0.5cm,xshift=-0.5cm]A);
-			
-			
-			\draw ([yshift=-0.3cm,xshift=0.3cm]A)-- ([yshift=-0.3cm,xshift=-0.3cm]B)--
-			([yshift=0.3cm,xshift=-0.3cm]B) --([yshift=0.3cm,xshift=0.3cm]B)--([yshift=-0.3cm,xshift=0.3cm]C)--([yshift=-0.3cm,xshift=-0.3cm]C)--([yshift=0.3cm,xshift=-0.3cm]C)-- ([yshift=0.3cm,xshift=0.3cm]D)--([yshift=-0.3cm,xshift=0.3cm]D)--([yshift=-0.3cm,xshift=-0.3cm]D)--([yshift=0.3cm,xshift=-0.3cm]A)--([yshift=0.3cm,xshift=0.3cm]A)--([yshift=-0.3cm,xshift=0.3cm]A);
-			
-		\end{tikzpicture}
-		\begin{center}
-			\vspace{1cm}
-			\fontsize{13pt}{17pt}\selectfont 
-			SỞ GIÁO DỤC VÀ ĐÀO TẠO TỈNH BÌNH DƯƠNG\\
-			\textbf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}\\
-			\noindent\rule{4cm}{0.4pt}\\
-			\vspace{7pt}
-			\textbf{TỔ VẬT LÝ}
-		\end{center}
-		\vspace{10pt}
-		\begin{center}
-			\includegraphics[scale=0.7]{figs/logo}
-		\end{center}
-\vspace{1cm}
-		\begin{center}
-			\fontsize{20pt}{17pt}\selectfont 
-			\textbf{\textrm{KẾ HOẠCH BÀI DẠY}}\\
-			\fontsize{16pt}{17pt}\selectfont 
-			\textbf{\textit{(Học kì I)}}
-		\end{center}
-		
-		\vspace{1cm}
-		\begin{center}
-			\fontsize{13pt}{17pt}\selectfont 
-			\begin{tabular}{L{5cm}L{4.5cm}}
-				\textbf{Bộ môn:}&\textbf{Vật lý}\\
-				\textbf{Khối lớp:}&\textbf{10}\\
-				\textbf{Giáo viên giảng dạy:}& \textbf{Lương Hoàng Sang}\\
-			\end{tabular}
-		\end{center}
-		
-		\vspace{4cm}
-		
-		\begin{center}
-			\fontsize{13pt}{17pt}\selectfont 
-			\textbf{Năm học 2024 - 2025}
-		\end{center}
-	\end{titlepage}
-	\newpage
-	% ---------	Table of Contents (ToC) ---------
-	\tableofcontents
-	\cleardoublepage
-% ------------- end of ToC ----------------
-% --------- Main Contents ------------------
+%	% ===================== BÌA=====================
+%		\begin{titlepage}
+%		\begin{tikzpicture}[remember picture,overlay,inner sep=0,outer sep=0]
+%			\draw[blue!70!black,line width=4pt] ([xshift=-1.5cm,yshift=-2cm]current page.north east) coordinate (A)--([xshift=1.5cm,yshift=-2cm]current page.north west) coordinate(B)--([xshift=1.5cm,yshift=2cm]current page.south west) coordinate (C)--([xshift=-1.5cm,yshift=2cm]current page.south east) coordinate(D)--cycle;
+%			
+%			\draw ([yshift=0.5cm,xshift=-0.5cm]A)-- ([yshift=0.5cm,xshift=0.5cm]B)--
+%			([yshift=-0.5cm,xshift=0.5cm]B) --([yshift=-0.5cm,xshift=-0.5cm]B)--([yshift=0.5cm,xshift=-0.5cm]C)--([yshift=0.5cm,xshift=0.5cm]C)--([yshift=-0.5cm,xshift=0.5cm]C)-- ([yshift=-0.5cm,xshift=-0.5cm]D)--([yshift=0.5cm,xshift=-0.5cm]D)--([yshift=0.5cm,xshift=0.5cm]D)--([yshift=-0.5cm,xshift=0.5cm]A)--([yshift=-0.5cm,xshift=-0.5cm]A)--([yshift=0.5cm,xshift=-0.5cm]A);
+%			
+%			
+%			\draw ([yshift=-0.3cm,xshift=0.3cm]A)-- ([yshift=-0.3cm,xshift=-0.3cm]B)--
+%			([yshift=0.3cm,xshift=-0.3cm]B) --([yshift=0.3cm,xshift=0.3cm]B)--([yshift=-0.3cm,xshift=0.3cm]C)--([yshift=-0.3cm,xshift=-0.3cm]C)--([yshift=0.3cm,xshift=-0.3cm]C)-- ([yshift=0.3cm,xshift=0.3cm]D)--([yshift=-0.3cm,xshift=0.3cm]D)--([yshift=-0.3cm,xshift=-0.3cm]D)--([yshift=0.3cm,xshift=-0.3cm]A)--([yshift=0.3cm,xshift=0.3cm]A)--([yshift=-0.3cm,xshift=0.3cm]A);
+%			
+%		\end{tikzpicture}
+%		\begin{center}
+%			\vspace{1cm}
+%			\fontsize{13pt}{17pt}\selectfont 
+%			SỞ GIÁO DỤC VÀ ĐÀO TẠO TỈNH BÌNH DƯƠNG\\
+%			\textbf{TRƯỜNG THCS - THPT NGUYỄN KHUYẾN}\\
+%			\noindent\rule{4cm}{0.4pt}\\
+%			\vspace{7pt}
+%			\textbf{TỔ VẬT LÝ}
+%		\end{center}
+%		\vspace{10pt}
+%		\begin{center}
+%			\includegraphics[scale=0.7]{figs/logo}
+%		\end{center}
+%\vspace{1cm}
+%		\begin{center}
+%			\fontsize{20pt}{17pt}\selectfont 
+%			\textbf{\textrm{KẾ HOẠCH BÀI DẠY}}\\
+%			\fontsize{16pt}{17pt}\selectfont 
+%			\textbf{\textit{(Học kì I)}}
+%		\end{center}
+%		
+%		\vspace{1cm}
+%		\begin{center}
+%			\fontsize{13pt}{17pt}\selectfont 
+%			\begin{tabular}{L{5cm}L{4.5cm}}
+%				\textbf{Bộ môn:}&\textbf{Vật lý}\\
+%				\textbf{Khối lớp:}&\textbf{10}\\
+%				\textbf{Giáo viên giảng dạy:}& \textbf{Lương Hoàng Sang}\\
+%			\end{tabular}
+%		\end{center}
+%		
+%		\vspace{4cm}
+%		
+%		\begin{center}
+%			\fontsize{13pt}{17pt}\selectfont 
+%			\textbf{Năm học 2024 - 2025}
+%		\end{center}
+%	\end{titlepage}
+%	\newpage
+%	% ---------	Table of Contents (ToC) ---------
+%	\tableofcontents
+%	\cleardoublepage
+%% ------------- end of ToC ----------------
+%% --------- Main Contents ------------------
 
 %\newpage\input{data/BAOCAOTN1}
 %\newpage\input{data/DANHGIATHUCHANH}
 %\input{data/BAOCAOTN2}\newpage
 %\input{data/BAOCAOTN3}\newpage
 %\input{data/BAOCAOTN2}
-\setcounter{part}{0}
-\pagestyle{fancy}
-\part{MỞ ĐẦU}
-\input{data/G10-BAI1}
-\newpage\input{data/G10-BAI2}
-\newpage\input{data/G10-BAI3}
-\part{MÔ TẢ CHUYỂN ĐỘNG}
-\newpage\input{data/G10-BAI4}
-\newpage\input{data/G10-BAI5}
-\newpage\input{data/G10-BAI6}
-\part{CHUYỂN ĐỘNG BIẾN ĐỔI}
-\newpage\input{data/G10-BAI7}
-\newpage\input{data/G10-BAI8}
-\part{BA ĐỊNH LUẬT NEWTON - MỘT SỐ LỰC TRONG THỰC TIỄN}
-\newpage\input{data/G10-BAI9}
-\newpage\input{data/G10-BAI10}
-\newpage\input{data/G10-BAI11}
-\newpage\input{data/G10-BAI12}
-\setcounter{part}{-1}
-\part{CÁC ĐỀ ÔN TẬP}
-\newpage\input{data/KTTX1-HK1}
-\newpage\input{data/D10-GKI-001}
-\newpage\input{data/D10-GKI-002}
-\newpage\input{data/D10-HKI-KTTX2-001}
-\newpage\input{data/D10-HKI-KTTX2-002}
-\newpage\input{data/D10-CK1-001}
-\newpage\input{data/D10-CK1-002}
+%\setcounter{part}{0}
+%\pagestyle{fancy}
+%\part{MỞ ĐẦU}
+%\input{data/G10-BAI1}
+%\newpage\input{data/G10-BAI2}
+%\newpage\input{data/G10-BAI3}
+%\part{MÔ TẢ CHUYỂN ĐỘNG}
+%\newpage\input{data/G10-BAI4}
+%\newpage\input{data/G10-BAI5}
+%\newpage\input{data/G10-BAI6}
+%\part{CHUYỂN ĐỘNG BIẾN ĐỔI}
+%\newpage\input{data/G10-BAI7}
+%\newpage\input{data/G10-BAI8}
+%\part{BA ĐỊNH LUẬT NEWTON - MỘT SỐ LỰC TRONG THỰC TIỄN}
+%\newpage\input{data/G10-BAI9}
+%\newpage\input{data/G10-BAI10}
+%\newpage\input{data/G10-BAI11}
+%\newpage\input{data/G10-BAI12}
+%\setcounter{part}{-1}
+%\part{CÁC ĐỀ ÔN TẬP}
+%\newpage\input{data/KTTX1-HK1}
+%\newpage\input{data/D10-GKI-001}
+%\newpage\input{data/D10-GKI-002}
+%\newpage\input{data/D10-HKI-KTTX2-001}
+%\newpage\input{data/D10-HKI-KTTX2-002}
+%\newpage\input{data/D10-CK1-001}
+%\newpage\input{data/D10-CK1-002}
 % HỌC KÌ 2
 %\newpage\input{data/G10-BAI13}
+\input{data/G10-BAI21}
 \end{document}
